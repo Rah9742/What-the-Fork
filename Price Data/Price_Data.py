@@ -274,18 +274,18 @@ TOKENS_EVENT = {
         "csv_file": "Ethereum_01_01_2016-31_12_2016_historical_data_coinmarketcap.csv",
         "event_date": datetime(2016, 6, 17)
     },
-    # "BNB": {
-    #     "csv_file": "BNB_01_04_2022-31_03_2023_historical_data_coinmarketcap.csv",
-    #     "event_date": datetime(2022, 10, 6)
-    # },
-    # "Berachain": {
-    #     "csv_file": "Berachain_07_12_2024-07_12_2025_historical_data_coinmarketcap.csv",
-    #     "event_date": datetime(2025, 12, 1)
-    # },
-    # "Solana": {
-    #     "csv_file": "Solana_01_09_2021-31_08_2022_historical_data_coinmarketcap.csv",
-    #     "event_date": datetime(2022, 2, 2)
-    # }
+    "BNB": {
+        "csv_file": "BNB_01_04_2022-31_03_2023_historical_data_coinmarketcap.csv",
+        "event_date": datetime(2022, 10, 6)
+    },
+    "Berachain": {
+        "csv_file": "Berachain_07_12_2024-07_12_2025_historical_data_coinmarketcap.csv",
+        "event_date": datetime(2025, 12, 1)
+    },
+    "Solana": {
+        "csv_file": "Solana_01_09_2021-31_08_2022_historical_data_coinmarketcap.csv",
+        "event_date": datetime(2022, 2, 2)
+    }
 }
 
 def main(benchmark_path, tokens):
