@@ -1,0 +1,5043 @@
+[
+  {
+    "timestamp": 1765235400,
+    "difficulty": 3050842924798719,
+    "hashrate": 222364644664630,
+    "block_time": 13.72
+}, {
+    "timestamp": 1765234800,
+    "difficulty": 3052366831299251,
+    "hashrate": 222637989153848,
+    "block_time": 13.71
+}, {
+    "timestamp": 1765234200,
+    "difficulty": 3052422297106129,
+    "hashrate": 222317720109696,
+    "block_time": 13.73
+}, {
+    "timestamp": 1765233600,
+    "difficulty": 3050960969696524,
+    "hashrate": 221565793006284,
+    "block_time": 13.77
+}, {
+    "timestamp": 1765233000,
+    "difficulty": 3037611460149039,
+    "hashrate": 221238999282523,
+    "block_time": 13.73
+}, {
+    "timestamp": 1765232400,
+    "difficulty": 3053992869233956,
+    "hashrate": 222756591483148,
+    "block_time": 13.71
+}, {
+    "timestamp": 1765231800,
+    "difficulty": 3055521989460563,
+    "hashrate": 223356870574603,
+    "block_time": 13.68
+}, {
+    "timestamp": 1765231200,
+    "difficulty": 3066018282384256,
+    "hashrate": 224616723984195,
+    "block_time": 13.65
+}, {
+    "timestamp": 1765230600,
+    "difficulty": 3067568121203554,
+    "hashrate": 223420839126260,
+    "block_time": 13.73
+}, {
+    "timestamp": 1765230000,
+    "difficulty": 3070639347515040,
+    "hashrate": 223970776624000,
+    "block_time": 13.71
+}, {
+    "timestamp": 1765229400,
+    "difficulty": 3079675738450706,
+    "hashrate": 225948330040404,
+    "block_time": 13.63
+}, {
+    "timestamp": 1765228800,
+    "difficulty": 3094787664947202,
+    "hashrate": 227223763946197,
+    "block_time": 13.62
+}, {
+    "timestamp": 1765228200,
+    "difficulty": 3114523408060058,
+    "hashrate": 228840808821459,
+    "block_time": 13.61
+}, {
+    "timestamp": 1765227600,
+    "difficulty": 3119130361809378,
+    "hashrate": 228843019941994,
+    "block_time": 13.63
+}, {
+    "timestamp": 1765227000,
+    "difficulty": 3111562827301053,
+    "hashrate": 228287808312623,
+    "block_time": 13.63
+}, {
+    "timestamp": 1765226400,
+    "difficulty": 3119206286496364,
+    "hashrate": 228680812792989,
+    "block_time": 13.64
+}, {
+    "timestamp": 1765225800,
+    "difficulty": 3119244249898969,
+    "hashrate": 230032761791959,
+    "block_time": 13.56
+}, {
+    "timestamp": 1765225200,
+    "difficulty": 3134548822658945,
+    "hashrate": 232360920879092,
+    "block_time": 13.49
+}, {
+    "timestamp": 1765224600,
+    "difficulty": 3095043922734931,
+    "hashrate": 228923367066193,
+    "block_time": 13.52
+}, {
+    "timestamp": 1765224000,
+    "difficulty": 3072481038872311,
+    "hashrate": 226918835958073,
+    "block_time": 13.54
+}, {
+    "timestamp": 1765223400,
+    "difficulty": 3057537131699057,
+    "hashrate": 225482089358338,
+    "block_time": 13.56
+}, {
+    "timestamp": 1765222800,
+    "difficulty": 3042670262569764,
+    "hashrate": 221768969575056,
+    "block_time": 13.72
+}, {
+    "timestamp": 1765222200,
+    "difficulty": 3050140117468587,
+    "hashrate": 222313419640568,
+    "block_time": 13.72
+}, {
+    "timestamp": 1765221600,
+    "difficulty": 3053146443126658,
+    "hashrate": 222857404607785,
+    "block_time": 13.7
+}, {
+    "timestamp": 1765221000,
+    "difficulty": 3056158653629348,
+    "hashrate": 224882903136817,
+    "block_time": 13.59
+}, {
+    "timestamp": 1765220400,
+    "difficulty": 3053211999255671,
+    "hashrate": 224666077943758,
+    "block_time": 13.59
+}, {
+    "timestamp": 1765219800,
+    "difficulty": 3041331141050045,
+    "hashrate": 222808142201469,
+    "block_time": 13.65
+}, {
+    "timestamp": 1765219200,
+    "difficulty": 3039899825132220,
+    "hashrate": 222214899497969,
+    "block_time": 13.68
+}, {
+    "timestamp": 1765218600,
+    "difficulty": 3048845027053700,
+    "hashrate": 223686355616559,
+    "block_time": 13.63
+}, {
+    "timestamp": 1765218000,
+    "difficulty": 3047383954161187,
+    "hashrate": 223415245906245,
+    "block_time": 13.64
+}, {
+    "timestamp": 1765217400,
+    "difficulty": 3032564284446998,
+    "hashrate": 220871397264894,
+    "block_time": 13.73
+}, {
+    "timestamp": 1765216800,
+    "difficulty": 3044462465383835,
+    "hashrate": 222711226436272,
+    "block_time": 13.67
+}, {
+    "timestamp": 1765216200,
+    "difficulty": 3045975902023771,
+    "hashrate": 221364527763355,
+    "block_time": 13.76
+}, {
+    "timestamp": 1765215600,
+    "difficulty": 3063909440208611,
+    "hashrate": 224297909239283,
+    "block_time": 13.66
+}, {
+    "timestamp": 1765215000,
+    "difficulty": 3094021332842981,
+    "hashrate": 228509699619127,
+    "block_time": 13.54
+}, {
+    "timestamp": 1765214400,
+    "difficulty": 3089520765202280,
+    "hashrate": 227672864053226,
+    "block_time": 13.57
+}, {
+    "timestamp": 1765213800,
+    "difficulty": 3097102675871104,
+    "hashrate": 228231589968394,
+    "block_time": 13.57
+}, {
+    "timestamp": 1765213200,
+    "difficulty": 3082034603142993,
+    "hashrate": 226453681347759,
+    "block_time": 13.61
+}, {
+    "timestamp": 1765212600,
+    "difficulty": 3092609424889190,
+    "hashrate": 228236857925401,
+    "block_time": 13.55
+}, {
+    "timestamp": 1765212000,
+    "difficulty": 3073071927992899,
+    "hashrate": 225298528445227,
+    "block_time": 13.64
+}, {
+    "timestamp": 1765211400,
+    "difficulty": 3043238737649501,
+    "hashrate": 221972190929942,
+    "block_time": 13.71
+}, {
+    "timestamp": 1765210800,
+    "difficulty": 3070147079961128,
+    "hashrate": 224425956137509,
+    "block_time": 13.68
+}, {
+    "timestamp": 1765210200,
+    "difficulty": 3101842252601949,
+    "hashrate": 228412537010453,
+    "block_time": 13.58
+}, {
+    "timestamp": 1765209600,
+    "difficulty": 3117051030158838,
+    "hashrate": 230551111698139,
+    "block_time": 13.52
+}, {
+    "timestamp": 1765209000,
+    "difficulty": 3124721427481345,
+    "hashrate": 233536728511311,
+    "block_time": 13.38
+}, {
+    "timestamp": 1765208400,
+    "difficulty": 3126282227059497,
+    "hashrate": 232264652827600,
+    "block_time": 13.46
+}, {
+    "timestamp": 1765207800,
+    "difficulty": 3140101600181728,
+    "hashrate": 233464802987489,
+    "block_time": 13.45
+}, {
+    "timestamp": 1765207200,
+    "difficulty": 3140151815641220,
+    "hashrate": 234865506031505,
+    "block_time": 13.37
+}, {
+    "timestamp": 1765206600,
+    "difficulty": 3140186288375197,
+    "hashrate": 235396273491394,
+    "block_time": 13.34
+}, {
+    "timestamp": 1765206000,
+    "difficulty": 3137145894573876,
+    "hashrate": 234816309474093,
+    "block_time": 13.36
+}, {
+    "timestamp": 1765205400,
+    "difficulty": 3118848428202263,
+    "hashrate": 233272133747365,
+    "block_time": 13.37
+}, {
+    "timestamp": 1765204800,
+    "difficulty": 3128020720724267,
+    "hashrate": 234836390444765,
+    "block_time": 13.32
+}, {
+    "timestamp": 1765204200,
+    "difficulty": 3131105316629009,
+    "hashrate": 234364170406363,
+    "block_time": 13.36
+}, {
+    "timestamp": 1765203600,
+    "difficulty": 3147991681274823,
+    "hashrate": 234574640929570,
+    "block_time": 13.42
+}, {
+    "timestamp": 1765203000,
+    "difficulty": 3157276804419568,
+    "hashrate": 235091348058047,
+    "block_time": 13.43
+}, {
+    "timestamp": 1765202400,
+    "difficulty": 3146525133393675,
+    "hashrate": 234990674637317,
+    "block_time": 13.39
+}, {
+    "timestamp": 1765201800,
+    "difficulty": 3148093811392475,
+    "hashrate": 234932373984513,
+    "block_time": 13.4
+}, {
+    "timestamp": 1765201200,
+    "difficulty": 3140444015113334,
+    "hashrate": 234711809799203,
+    "block_time": 13.38
+}, {
+    "timestamp": 1765200600,
+    "difficulty": 3162022409503126,
+    "hashrate": 238823444826520,
+    "block_time": 13.24
+}, {
+    "timestamp": 1765200000,
+    "difficulty": 3151256087954675,
+    "hashrate": 236758534031155,
+    "block_time": 13.31
+}, {
+    "timestamp": 1765199400,
+    "difficulty": 3166704127893362,
+    "hashrate": 239538890158348,
+    "block_time": 13.22
+}, {
+    "timestamp": 1765198800,
+    "difficulty": 3157465102237493,
+    "hashrate": 238119540138574,
+    "block_time": 13.26
+}, {
+    "timestamp": 1765198200,
+    "difficulty": 3135985138435962,
+    "hashrate": 237215214707713,
+    "block_time": 13.22
+}, {
+    "timestamp": 1765197600,
+    "difficulty": 3125323136086763,
+    "hashrate": 235695560790857,
+    "block_time": 13.26
+}, {
+    "timestamp": 1765197000,
+    "difficulty": 3097998471938691,
+    "hashrate": 232582467863265,
+    "block_time": 13.32
+}, {
+    "timestamp": 1765196400,
+    "difficulty": 3084457874416633,
+    "hashrate": 230355330426933,
+    "block_time": 13.39
+}, {
+    "timestamp": 1765195800,
+    "difficulty": 3104134413680628,
+    "hashrate": 233218212898620,
+    "block_time": 13.31
+}, {
+    "timestamp": 1765195200,
+    "difficulty": 3137708792033823,
+    "hashrate": 237345596976840,
+    "block_time": 13.22
+}, {
+    "timestamp": 1765194600,
+    "difficulty": 3119391666091527,
+    "hashrate": 235070962026490,
+    "block_time": 13.27
+}, {
+    "timestamp": 1765194000,
+    "difficulty": 3092124023413671,
+    "hashrate": 231967293579420,
+    "block_time": 13.33
+}, {
+    "timestamp": 1765193400,
+    "difficulty": 3104270702803042,
+    "hashrate": 232703950734861,
+    "block_time": 13.34
+}, {
+    "timestamp": 1765192800,
+    "difficulty": 3096731814735933,
+    "hashrate": 232487373478674,
+    "block_time": 13.32
+}, {
+    "timestamp": 1765192200,
+    "difficulty": 3101312459417155,
+    "hashrate": 232831265722009,
+    "block_time": 13.32
+}, {
+    "timestamp": 1765191600,
+    "difficulty": 3096797598035975,
+    "hashrate": 232143747978709,
+    "block_time": 13.34
+}, {
+    "timestamp": 1765191000,
+    "difficulty": 3107437910301125,
+    "hashrate": 232592657956671,
+    "block_time": 13.36
+}, {
+    "timestamp": 1765190400,
+    "difficulty": 3113545000140212,
+    "hashrate": 233399175422805,
+    "block_time": 13.34
+}, {
+    "timestamp": 1765189800,
+    "difficulty": 3136484306107051,
+    "hashrate": 236003333792856,
+    "block_time": 13.29
+}, {
+    "timestamp": 1765189200,
+    "difficulty": 3122762081780604,
+    "hashrate": 235680157115517,
+    "block_time": 13.25
+}, {
+    "timestamp": 1765188600,
+    "difficulty": 3139620689694025,
+    "hashrate": 237490218585025,
+    "block_time": 13.22
+}, {
+    "timestamp": 1765188000,
+    "difficulty": 3122823923082720,
+    "hashrate": 236219661352702,
+    "block_time": 13.22
+}, {
+    "timestamp": 1765187400,
+    "difficulty": 3128968718592934,
+    "hashrate": 236148582535316,
+    "block_time": 13.25
+}, {
+    "timestamp": 1765186800,
+    "difficulty": 3118321664999155,
+    "hashrate": 235345031320691,
+    "block_time": 13.25
+}, {
+    "timestamp": 1765186200,
+    "difficulty": 3122926022078270,
+    "hashrate": 236585304702899,
+    "block_time": 13.2
+}, {
+    "timestamp": 1765185600,
+    "difficulty": 3129062812196482,
+    "hashrate": 236334049259553,
+    "block_time": 13.24
+}, {
+    "timestamp": 1765185000,
+    "difficulty": 3130645259168784,
+    "hashrate": 235563977364092,
+    "block_time": 13.29
+}, {
+    "timestamp": 1765184400,
+    "difficulty": 3119991727742696,
+    "hashrate": 234939136125203,
+    "block_time": 13.28
+}, {
+    "timestamp": 1765183800,
+    "difficulty": 3121603258000473,
+    "hashrate": 234707011879735,
+    "block_time": 13.3
+}, {
+    "timestamp": 1765183200,
+    "difficulty": 3141528760827770,
+    "hashrate": 237275586165239,
+    "block_time": 13.24
+}, {
+    "timestamp": 1765182600,
+    "difficulty": 3132362441003856,
+    "hashrate": 236404712528593,
+    "block_time": 13.25
+}, {
+    "timestamp": 1765182000,
+    "difficulty": 3095903289699584,
+    "hashrate": 232599796371118,
+    "block_time": 13.31
+}, {
+    "timestamp": 1765181400,
+    "difficulty": 3114149397465374,
+    "hashrate": 235385441985289,
+    "block_time": 13.23
+}, {
+    "timestamp": 1765180800,
+    "difficulty": 3099013176089169,
+    "hashrate": 233711400911702,
+    "block_time": 13.26
+}, {
+    "timestamp": 1765180200,
+    "difficulty": 3092996581474227,
+    "hashrate": 233257660744663,
+    "block_time": 13.26
+}, {
+    "timestamp": 1765179600,
+    "difficulty": 3085478449610830,
+    "hashrate": 231468750908539,
+    "block_time": 13.33
+}, {
+    "timestamp": 1765179000,
+    "difficulty": 3080980015939153,
+    "hashrate": 230439791768074,
+    "block_time": 13.37
+}, {
+    "timestamp": 1765178400,
+    "difficulty": 3065999163892489,
+    "hashrate": 228805907753171,
+    "block_time": 13.4
+}, {
+    "timestamp": 1765177800,
+    "difficulty": 3054068548147173,
+    "hashrate": 227237243165712,
+    "block_time": 13.44
+}, {
+    "timestamp": 1765177200,
+    "difficulty": 3085594021365367,
+    "hashrate": 230440180833859,
+    "block_time": 13.39
+}, {
+    "timestamp": 1765176600,
+    "difficulty": 3115919799191578,
+    "hashrate": 232878908758713,
+    "block_time": 13.38
+}, {
+    "timestamp": 1765176000,
+    "difficulty": 3112910336266927,
+    "hashrate": 232133507551598,
+    "block_time": 13.41
+}, {
+    "timestamp": 1765175400,
+    "difficulty": 3115990431533065,
+    "hashrate": 231672151043351,
+    "block_time": 13.45
+}, {
+    "timestamp": 1765174800,
+    "difficulty": 3123638802560065,
+    "hashrate": 232933542323644,
+    "block_time": 13.41
+}, {
+    "timestamp": 1765174200,
+    "difficulty": 3094815509467605,
+    "hashrate": 228737288208988,
+    "block_time": 13.53
+}, {
+    "timestamp": 1765173600,
+    "difficulty": 3088813716829151,
+    "hashrate": 229310595161778,
+    "block_time": 13.47
+}, {
+    "timestamp": 1765173000,
+    "difficulty": 3075330199413785,
+    "hashrate": 227465251435931,
+    "block_time": 13.52
+}, {
+    "timestamp": 1765172400,
+    "difficulty": 3072347463059873,
+    "hashrate": 227581293559991,
+    "block_time": 13.5
+}, {
+    "timestamp": 1765171800,
+    "difficulty": 3042523487646609,
+    "hashrate": 223714962326957,
+    "block_time": 13.6
+}, {
+    "timestamp": 1765171200,
+    "difficulty": 3026268585651719,
+    "hashrate": 222356251701082,
+    "block_time": 13.61
+}, {
+    "timestamp": 1765170600,
+    "difficulty": 3029251382687275,
+    "hashrate": 224388991310169,
+    "block_time": 13.5
+}, {
+    "timestamp": 1765170000,
+    "difficulty": 3047089362081595,
+    "hashrate": 225043527480177,
+    "block_time": 13.54
+}, {
+    "timestamp": 1765169400,
+    "difficulty": 3029312090866574,
+    "hashrate": 223235968376313,
+    "block_time": 13.57
+}, {
+    "timestamp": 1765168800,
+    "difficulty": 3027852429239668,
+    "hashrate": 221820690786789,
+    "block_time": 13.65
+}, {
+    "timestamp": 1765168200,
+    "difficulty": 3030844024058023,
+    "hashrate": 222528929813364,
+    "block_time": 13.62
+}, {
+    "timestamp": 1765167600,
+    "difficulty": 3024964823818110,
+    "hashrate": 221771614649422,
+    "block_time": 13.64
+}, {
+    "timestamp": 1765167000,
+    "difficulty": 3032385417558778,
+    "hashrate": 222478754039529,
+    "block_time": 13.63
+}, {
+    "timestamp": 1765166400,
+    "difficulty": 3048762680152351,
+    "hashrate": 224173726481791,
+    "block_time": 13.6
+}, {
+    "timestamp": 1765165800,
+    "difficulty": 3026536462346996,
+    "hashrate": 220432371620320,
+    "block_time": 13.73
+}, {
+    "timestamp": 1765165200,
+    "difficulty": 3036922315130616,
+    "hashrate": 222322277828010,
+    "block_time": 13.66
+}, {
+    "timestamp": 1765164600,
+    "difficulty": 3059293431431338,
+    "hashrate": 225279339575209,
+    "block_time": 13.58
+}, {
+    "timestamp": 1765164000,
+    "difficulty": 3056329164457830,
+    "hashrate": 225226909687386,
+    "block_time": 13.57
+}, {
+    "timestamp": 1765163400,
+    "difficulty": 3044445620410942,
+    "hashrate": 222873032240918,
+    "block_time": 13.66
+}, {
+    "timestamp": 1765162800,
+    "difficulty": 3071385227373854,
+    "hashrate": 224845185020048,
+    "block_time": 13.66
+}, {
+    "timestamp": 1765162200,
+    "difficulty": 3046017280796676,
+    "hashrate": 222012921340866,
+    "block_time": 13.72
+}, {
+    "timestamp": 1765161600,
+    "difficulty": 3032690125457974,
+    "hashrate": 220238934310674,
+    "block_time": 13.77
+}, {
+    "timestamp": 1765161000,
+    "difficulty": 3047573665453956,
+    "hashrate": 221964578692932,
+    "block_time": 13.73
+}, {
+    "timestamp": 1765160400,
+    "difficulty": 3041654755675432,
+    "hashrate": 222018595304776,
+    "block_time": 13.7
+}, {
+    "timestamp": 1765159800,
+    "difficulty": 3031308400772626,
+    "hashrate": 220458792783464,
+    "block_time": 13.75
+}, {
+    "timestamp": 1765159200,
+    "difficulty": 3047687853719704,
+    "hashrate": 222947172912926,
+    "block_time": 13.67
+}, {
+    "timestamp": 1765158600,
+    "difficulty": 3071630756486431,
+    "hashrate": 227023707057386,
+    "block_time": 13.53
+}, {
+    "timestamp": 1765158000,
+    "difficulty": 3052210497272410,
+    "hashrate": 225089269710355,
+    "block_time": 13.56
+}, {
+    "timestamp": 1765157400,
+    "difficulty": 3053742370396033,
+    "hashrate": 225202239704722,
+    "block_time": 13.56
+}, {
+    "timestamp": 1765156800,
+    "difficulty": 3061236488973355,
+    "hashrate": 226590413691588,
+    "block_time": 13.51
+}, {
+    "timestamp": 1765156200,
+    "difficulty": 3041894287567573,
+    "hashrate": 224328487283744,
+    "block_time": 13.56
+}, {
+    "timestamp": 1765155600,
+    "difficulty": 3027099152210470,
+    "hashrate": 222908626819622,
+    "block_time": 13.58
+}, {
+    "timestamp": 1765155000,
+    "difficulty": 3025655722599104,
+    "hashrate": 222802335979315,
+    "block_time": 13.58
+}, {
+    "timestamp": 1765154400,
+    "difficulty": 3019793107267679,
+    "hashrate": 222043610828506,
+    "block_time": 13.6
+}, {
+    "timestamp": 1765153800,
+    "difficulty": 3016884399596341,
+    "hashrate": 221829735264437,
+    "block_time": 13.6
+}, {
+    "timestamp": 1765153200,
+    "difficulty": 3019874533135588,
+    "hashrate": 222376622469484,
+    "block_time": 13.58
+}, {
+    "timestamp": 1765152600,
+    "difficulty": 3028749967825953,
+    "hashrate": 223523982865384,
+    "block_time": 13.55
+}, {
+    "timestamp": 1765152000,
+    "difficulty": 3045091587693063,
+    "hashrate": 225897002054382,
+    "block_time": 13.48
+}, {
+    "timestamp": 1765151400,
+    "difficulty": 3048097309764863,
+    "hashrate": 225952358025564,
+    "block_time": 13.49
+}, {
+    "timestamp": 1765150800,
+    "difficulty": 3046638065011936,
+    "hashrate": 225676893704588,
+    "block_time": 13.5
+}, {
+    "timestamp": 1765150200,
+    "difficulty": 3066081396809294,
+    "hashrate": 228131056310215,
+    "block_time": 13.44
+}, {
+    "timestamp": 1765149600,
+    "difficulty": 3070599824149696,
+    "hashrate": 228978361234131,
+    "block_time": 13.41
+}, {
+    "timestamp": 1765149000,
+    "difficulty": 3084159061109721,
+    "hashrate": 231717435094645,
+    "block_time": 13.31
+}, {
+    "timestamp": 1765148400,
+    "difficulty": 3096275955237795,
+    "hashrate": 231930783163880,
+    "block_time": 13.35
+}, {
+    "timestamp": 1765147800,
+    "difficulty": 3091763256631516,
+    "hashrate": 231419405436491,
+    "block_time": 13.36
+}, {
+    "timestamp": 1765147200,
+    "difficulty": 3106927074430822,
+    "hashrate": 232903079042790,
+    "block_time": 13.34
+}, {
+    "timestamp": 1765146600,
+    "difficulty": 3069271901608836,
+    "hashrate": 226849364494371,
+    "block_time": 13.53
+}, {
+    "timestamp": 1765146000,
+    "difficulty": 3075306924727287,
+    "hashrate": 227127542446624,
+    "block_time": 13.54
+}, {
+    "timestamp": 1765145400,
+    "difficulty": 3067833986027314,
+    "hashrate": 225410285527356,
+    "block_time": 13.61
+}, {
+    "timestamp": 1765144800,
+    "difficulty": 3076865794170130,
+    "hashrate": 225576671126842,
+    "block_time": 13.64
+}, {
+    "timestamp": 1765144200,
+    "difficulty": 3081403060840260,
+    "hashrate": 225578554966344,
+    "block_time": 13.66
+}, {
+    "timestamp": 1765143600,
+    "difficulty": 3048504649643984,
+    "hashrate": 221226752514077,
+    "block_time": 13.78
+}, {
+    "timestamp": 1765143000,
+    "difficulty": 3072449557556111,
+    "hashrate": 223776369814720,
+    "block_time": 13.73
+}, {
+    "timestamp": 1765142400,
+    "difficulty": 3081484654863831,
+    "hashrate": 224107974899188,
+    "block_time": 13.75
+}, {
+    "timestamp": 1765141800,
+    "difficulty": 3086060460923992,
+    "hashrate": 224931520475510,
+    "block_time": 13.72
+}, {
+    "timestamp": 1765141200,
+    "difficulty": 3090606851559094,
+    "hashrate": 225921553476542,
+    "block_time": 13.68
+}, {
+    "timestamp": 1765140600,
+    "difficulty": 3078588571933290,
+    "hashrate": 225868567273169,
+    "block_time": 13.63
+}, {
+    "timestamp": 1765140000,
+    "difficulty": 3081633252921333,
+    "hashrate": 225926191563148,
+    "block_time": 13.64
+}, {
+    "timestamp": 1765139400,
+    "difficulty": 3090702732565573,
+    "hashrate": 225763530501503,
+    "block_time": 13.69
+}, {
+    "timestamp": 1765138800,
+    "difficulty": 3104361901305697,
+    "hashrate": 228094188192924,
+    "block_time": 13.61
+}, {
+    "timestamp": 1765138200,
+    "difficulty": 3127235798467188,
+    "hashrate": 231818813822623,
+    "block_time": 13.49
+}, {
+    "timestamp": 1765137600,
+    "difficulty": 3090826716536471,
+    "hashrate": 226600199159565,
+    "block_time": 13.64
+}, {
+    "timestamp": 1765137000,
+    "difficulty": 3080321960872053,
+    "hashrate": 225005256455227,
+    "block_time": 13.69
+}, {
+    "timestamp": 1765136400,
+    "difficulty": 3103015726623021,
+    "hashrate": 228162921075222,
+    "block_time": 13.6
+}, {
+    "timestamp": 1765135800,
+    "difficulty": 3133552441150737,
+    "hashrate": 231258482741752,
+    "block_time": 13.55
+}, {
+    "timestamp": 1765135200,
+    "difficulty": 3130525202367695,
+    "hashrate": 231035070285439,
+    "block_time": 13.55
+}, {
+    "timestamp": 1765134600,
+    "difficulty": 3135152084666015,
+    "hashrate": 231718557624983,
+    "block_time": 13.53
+}, {
+    "timestamp": 1765134000,
+    "difficulty": 3130590943984457,
+    "hashrate": 232930873808367,
+    "block_time": 13.44
+}, {
+    "timestamp": 1765133400,
+    "difficulty": 3129098166497291,
+    "hashrate": 232819804054858,
+    "block_time": 13.44
+}, {
+    "timestamp": 1765132800,
+    "difficulty": 3115400820358818,
+    "hashrate": 231456227366926,
+    "block_time": 13.46
+}, {
+    "timestamp": 1765132200,
+    "difficulty": 3118477434029673,
+    "hashrate": 232548652798633,
+    "block_time": 13.41
+}, {
+    "timestamp": 1765131600,
+    "difficulty": 3091207460598931,
+    "hashrate": 228808842383341,
+    "block_time": 13.51
+}, {
+    "timestamp": 1765131000,
+    "difficulty": 3091247300032226,
+    "hashrate": 228642551777532,
+    "block_time": 13.52
+}, {
+    "timestamp": 1765130400,
+    "difficulty": 3083739313411882,
+    "hashrate": 226912385092854,
+    "block_time": 13.59
+}, {
+    "timestamp": 1765129800,
+    "difficulty": 3073243203946295,
+    "hashrate": 224488181442388,
+    "block_time": 13.69
+}, {
+    "timestamp": 1765129200,
+    "difficulty": 3071784381160877,
+    "hashrate": 224874405648673,
+    "block_time": 13.66
+}, {
+    "timestamp": 1765128600,
+    "difficulty": 3070318174972986,
+    "hashrate": 223621134375309,
+    "block_time": 13.73
+}, {
+    "timestamp": 1765128000,
+    "difficulty": 3061357435862443,
+    "hashrate": 222644177153632,
+    "block_time": 13.75
+}, {
+    "timestamp": 1765127400,
+    "difficulty": 3067375437219434,
+    "hashrate": 223732708768741,
+    "block_time": 13.71
+}, {
+    "timestamp": 1765126800,
+    "difficulty": 3059922497861173,
+    "hashrate": 223515156892708,
+    "block_time": 13.69
+}, {
+    "timestamp": 1765126200,
+    "difficulty": 3052514704720786,
+    "hashrate": 223300271011030,
+    "block_time": 13.67
+}, {
+    "timestamp": 1765125600,
+    "difficulty": 3060002890834083,
+    "hashrate": 224011924658425,
+    "block_time": 13.66
+}, {
+    "timestamp": 1765125000,
+    "difficulty": 3033254395151260,
+    "hashrate": 220600319647364,
+    "block_time": 13.75
+}, {
+    "timestamp": 1765124400,
+    "difficulty": 3042174228401650,
+    "hashrate": 221894546199974,
+    "block_time": 13.71
+}, {
+    "timestamp": 1765123800,
+    "difficulty": 3049635591058069,
+    "hashrate": 222438773964848,
+    "block_time": 13.71
+}, {
+    "timestamp": 1765123200,
+    "difficulty": 3049677828070131,
+    "hashrate": 222604221027017,
+    "block_time": 13.7
+}, {
+    "timestamp": 1765122600,
+    "difficulty": 3036333214669989,
+    "hashrate": 220024145990579,
+    "block_time": 13.8
+}, {
+    "timestamp": 1765122000,
+    "difficulty": 3042318008072937,
+    "hashrate": 220617694566565,
+    "block_time": 13.79
+}, {
+    "timestamp": 1765121400,
+    "difficulty": 3055749438951715,
+    "hashrate": 222560046536906,
+    "block_time": 13.73
+}, {
+    "timestamp": 1765120800,
+    "difficulty": 3032006290249173,
+    "hashrate": 219869926776590,
+    "block_time": 13.79
+}, {
+    "timestamp": 1765120200,
+    "difficulty": 3054333895453445,
+    "hashrate": 221971940076559,
+    "block_time": 13.76
+}, {
+    "timestamp": 1765119600,
+    "difficulty": 3084364930568846,
+    "hashrate": 225630207064290,
+    "block_time": 13.67
+}, {
+    "timestamp": 1765119000,
+    "difficulty": 3096461174885053,
+    "hashrate": 227179836748720,
+    "block_time": 13.63
+}, {
+    "timestamp": 1765118400,
+    "difficulty": 3107095889402895,
+    "hashrate": 229644929002431,
+    "block_time": 13.53
+}, {
+    "timestamp": 1765117800,
+    "difficulty": 3113197105544268,
+    "hashrate": 231120794769433,
+    "block_time": 13.47
+}, {
+    "timestamp": 1765117200,
+    "difficulty": 3116259632052232,
+    "hashrate": 232210106710300,
+    "block_time": 13.42
+}, {
+    "timestamp": 1765116600,
+    "difficulty": 3139218164885215,
+    "hashrate": 234620191695457,
+    "block_time": 13.38
+}, {
+    "timestamp": 1765116000,
+    "difficulty": 3136188435439815,
+    "hashrate": 233347353827367,
+    "block_time": 13.44
+}, {
+    "timestamp": 1765115400,
+    "difficulty": 3139284821386761,
+    "hashrate": 233925843620474,
+    "block_time": 13.42
+}, {
+    "timestamp": 1765114800,
+    "difficulty": 3159317901427201,
+    "hashrate": 236299020301212,
+    "block_time": 13.37
+}, {
+    "timestamp": 1765114200,
+    "difficulty": 3156266511320143,
+    "hashrate": 235016121468365,
+    "block_time": 13.43
+}, {
+    "timestamp": 1765113600,
+    "difficulty": 3131731139951901,
+    "hashrate": 231636918635496,
+    "block_time": 13.52
+}, {
+    "timestamp": 1765113000,
+    "difficulty": 3130233340944442,
+    "hashrate": 231869136366255,
+    "block_time": 13.5
+}, {
+    "timestamp": 1765112400,
+    "difficulty": 3137909175243911,
+    "hashrate": 232265668041740,
+    "block_time": 13.51
+}, {
+    "timestamp": 1765111800,
+    "difficulty": 3137957129565758,
+    "hashrate": 231412767667091,
+    "block_time": 13.56
+}, {
+    "timestamp": 1765111200,
+    "difficulty": 3122694014374174,
+    "hashrate": 229104476476462,
+    "block_time": 13.63
+}, {
+    "timestamp": 1765110600,
+    "difficulty": 3125813733095194,
+    "hashrate": 230177741759587,
+    "block_time": 13.58
+}, {
+    "timestamp": 1765110000,
+    "difficulty": 3141161824035902,
+    "hashrate": 231137735396314,
+    "block_time": 13.59
+}, {
+    "timestamp": 1765109400,
+    "difficulty": 3131996570473490,
+    "hashrate": 229114599156803,
+    "block_time": 13.67
+}, {
+    "timestamp": 1765108800,
+    "difficulty": 3144305901268021,
+    "hashrate": 231198963328531,
+    "block_time": 13.6
+}, {
+    "timestamp": 1765108200,
+    "difficulty": 3150486957892079,
+    "hashrate": 231823911544671,
+    "block_time": 13.59
+}, {
+    "timestamp": 1765107600,
+    "difficulty": 3136704217148053,
+    "hashrate": 229963652283582,
+    "block_time": 13.64
+}, {
+    "timestamp": 1765107000,
+    "difficulty": 3115364003796065,
+    "hashrate": 227232968912915,
+    "block_time": 13.71
+}, {
+    "timestamp": 1765106400,
+    "difficulty": 3100217440351269,
+    "hashrate": 225798793907594,
+    "block_time": 13.73
+}, {
+    "timestamp": 1765105800,
+    "difficulty": 3112373619362048,
+    "hashrate": 228514950026582,
+    "block_time": 13.62
+}, {
+    "timestamp": 1765105200,
+    "difficulty": 3113928994351409,
+    "hashrate": 228797134044924,
+    "block_time": 13.61
+}, {
+    "timestamp": 1765104600,
+    "difficulty": 3103323461429357,
+    "hashrate": 229366109492192,
+    "block_time": 13.53
+}, {
+    "timestamp": 1765104000,
+    "difficulty": 3094263443860218,
+    "hashrate": 228358925746142,
+    "block_time": 13.55
+}, {
+    "timestamp": 1765103400,
+    "difficulty": 3117062923012133,
+    "hashrate": 230551991347051,
+    "block_time": 13.52
+}, {
+    "timestamp": 1765102800,
+    "difficulty": 3126241898891542,
+    "hashrate": 232261656678421,
+    "block_time": 13.46
+}, {
+    "timestamp": 1765102200,
+    "difficulty": 3129318750053433,
+    "hashrate": 233357102912262,
+    "block_time": 13.41
+}, {
+    "timestamp": 1765101600,
+    "difficulty": 3150855444593192,
+    "hashrate": 235489943542092,
+    "block_time": 13.38
+}, {
+    "timestamp": 1765101000,
+    "difficulty": 3157044843868503,
+    "hashrate": 235074076237416,
+    "block_time": 13.43
+}, {
+    "timestamp": 1765100400,
+    "difficulty": 3164791715678032,
+    "hashrate": 235475574083187,
+    "block_time": 13.44
+}, {
+    "timestamp": 1765099800,
+    "difficulty": 3140193814481898,
+    "hashrate": 233993577830246,
+    "block_time": 13.42
+}, {
+    "timestamp": 1765099200,
+    "difficulty": 3109707518971494,
+    "hashrate": 230861731178285,
+    "block_time": 13.47
+}, {
+    "timestamp": 1765098600,
+    "difficulty": 3121899419181726,
+    "hashrate": 232284182974831,
+    "block_time": 13.44
+}, {
+    "timestamp": 1765098000,
+    "difficulty": 3126502355356211,
+    "hashrate": 231592767063423,
+    "block_time": 13.5
+}, {
+    "timestamp": 1765097400,
+    "difficulty": 3123478192317082,
+    "hashrate": 231368754986451,
+    "block_time": 13.5
+}, {
+    "timestamp": 1765096800,
+    "difficulty": 3114359336064503,
+    "hashrate": 230352021898262,
+    "block_time": 13.52
+}, {
+    "timestamp": 1765096200,
+    "difficulty": 3115908265029362,
+    "hashrate": 229956329522462,
+    "block_time": 13.55
+}, {
+    "timestamp": 1765095600,
+    "difficulty": 3132722389629193,
+    "hashrate": 231881746086543,
+    "block_time": 13.51
+}, {
+    "timestamp": 1765095000,
+    "difficulty": 3135810109093819,
+    "hashrate": 232972519249169,
+    "block_time": 13.46
+}, {
+    "timestamp": 1765094400,
+    "difficulty": 3135837051889008,
+    "hashrate": 233147736199926,
+    "block_time": 13.45
+}, {
+    "timestamp": 1765093800,
+    "difficulty": 3126687335628198,
+    "hashrate": 232294750046671,
+    "block_time": 13.46
+}, {
+    "timestamp": 1765093200,
+    "difficulty": 3125230072850616,
+    "hashrate": 233574743860285,
+    "block_time": 13.38
+}, {
+    "timestamp": 1765092600,
+    "difficulty": 3140568520855797,
+    "hashrate": 235778417481666,
+    "block_time": 13.32
+}, {
+    "timestamp": 1765092000,
+    "difficulty": 3146741468566651,
+    "hashrate": 237489922155974,
+    "block_time": 13.25
+}, {
+    "timestamp": 1765091400,
+    "difficulty": 3132970631822666,
+    "hashrate": 234679448076604,
+    "block_time": 13.35
+}, {
+    "timestamp": 1765090800,
+    "difficulty": 3108620798876219,
+    "hashrate": 232507165211385,
+    "block_time": 13.37
+}, {
+    "timestamp": 1765090200,
+    "difficulty": 3107125147958576,
+    "hashrate": 231875011041685,
+    "block_time": 13.4
+}, {
+    "timestamp": 1765089600,
+    "difficulty": 3108691267221686,
+    "hashrate": 231301433573042,
+    "block_time": 13.44
+}, {
+    "timestamp": 1765089000,
+    "difficulty": 3123938849583583,
+    "hashrate": 232263111493203,
+    "block_time": 13.45
+}, {
+    "timestamp": 1765088400,
+    "difficulty": 3125511972296776,
+    "hashrate": 230665090206404,
+    "block_time": 13.55
+}, {
+    "timestamp": 1765087800,
+    "difficulty": 3125553747873778,
+    "hashrate": 229820128520131,
+    "block_time": 13.6
+}, {
+    "timestamp": 1765087200,
+    "difficulty": 3151648012858427,
+    "hashrate": 231228761031433,
+    "block_time": 13.63
+}, {
+    "timestamp": 1765086600,
+    "difficulty": 3139388601999814,
+    "hashrate": 228485342212505,
+    "block_time": 13.74
+}, {
+    "timestamp": 1765086000,
+    "difficulty": 3134825038517422,
+    "hashrate": 227490931677607,
+    "block_time": 13.78
+}, {
+    "timestamp": 1765085400,
+    "difficulty": 3153290730784260,
+    "hashrate": 230335334608054,
+    "block_time": 13.69
+}, {
+    "timestamp": 1765084800,
+    "difficulty": 3167209062914098,
+    "hashrate": 232711907635128,
+    "block_time": 13.61
+}, {
+    "timestamp": 1765084200,
+    "difficulty": 3168795626949439,
+    "hashrate": 232828481039636,
+    "block_time": 13.61
+}, {
+    "timestamp": 1765083600,
+    "difficulty": 3171926483134814,
+    "hashrate": 233229888465795,
+    "block_time": 13.6
+}, {
+    "timestamp": 1765083000,
+    "difficulty": 3164225571064777,
+    "hashrate": 232151545932852,
+    "block_time": 13.63
+}, {
+    "timestamp": 1765082400,
+    "difficulty": 3185959761536355,
+    "hashrate": 235126181663200,
+    "block_time": 13.55
+}, {
+    "timestamp": 1765081800,
+    "difficulty": 3181323947613306,
+    "hashrate": 235653625749134,
+    "block_time": 13.5
+}, {
+    "timestamp": 1765081200,
+    "difficulty": 3179821435223803,
+    "hashrate": 236066921694417,
+    "block_time": 13.47
+}, {
+    "timestamp": 1765080600,
+    "difficulty": 3186059370036855,
+    "hashrate": 236354552673357,
+    "block_time": 13.48
+}, {
+    "timestamp": 1765080000,
+    "difficulty": 3169017940960343,
+    "hashrate": 234742069700766,
+    "block_time": 13.5
+}, {
+    "timestamp": 1765079400,
+    "difficulty": 3169045916492825,
+    "hashrate": 233705451068792,
+    "block_time": 13.56
+}, {
+    "timestamp": 1765078800,
+    "difficulty": 3158254925513416,
+    "hashrate": 232909655273851,
+    "block_time": 13.56
+}, {
+    "timestamp": 1765078200,
+    "difficulty": 3142893829838933,
+    "hashrate": 231947884120954,
+    "block_time": 13.55
+}, {
+    "timestamp": 1765077600,
+    "difficulty": 3104784960044459,
+    "hashrate": 226792181157375,
+    "block_time": 13.69
+}, {
+    "timestamp": 1765077000,
+    "difficulty": 3103297082415099,
+    "hashrate": 225530311222028,
+    "block_time": 13.76
+}, {
+    "timestamp": 1765076400,
+    "difficulty": 3113956010550261,
+    "hashrate": 227130270645533,
+    "block_time": 13.71
+}, {
+    "timestamp": 1765075800,
+    "difficulty": 3110945467316396,
+    "hashrate": 226250579441192,
+    "block_time": 13.75
+}, {
+    "timestamp": 1765075200,
+    "difficulty": 3115531494156401,
+    "hashrate": 225926866871385,
+    "block_time": 13.79
+}, {
+    "timestamp": 1765074600,
+    "difficulty": 3114032520472236,
+    "hashrate": 226310502941296,
+    "block_time": 13.76
+}, {
+    "timestamp": 1765074000,
+    "difficulty": 3115579049738525,
+    "hashrate": 227248654247887,
+    "block_time": 13.71
+}, {
+    "timestamp": 1765073400,
+    "difficulty": 3130856678805036,
+    "hashrate": 228529684584309,
+    "block_time": 13.7
+}, {
+    "timestamp": 1765072800,
+    "difficulty": 3100460293579717,
+    "hashrate": 225160515147401,
+    "block_time": 13.77
+}, {
+    "timestamp": 1765072200,
+    "difficulty": 3102009730943269,
+    "hashrate": 225109559574983,
+    "block_time": 13.78
+}, {
+    "timestamp": 1765071600,
+    "difficulty": 3100526884441283,
+    "hashrate": 225821331714587,
+    "block_time": 13.73
+}, {
+    "timestamp": 1765071000,
+    "difficulty": 3123362067281799,
+    "hashrate": 228817733866798,
+    "block_time": 13.65
+}, {
+    "timestamp": 1765070400,
+    "difficulty": 3117292987657864,
+    "hashrate": 227042460863646,
+    "block_time": 13.73
+}, {
+    "timestamp": 1765069800,
+    "difficulty": 3109717276391676,
+    "hashrate": 225341831622585,
+    "block_time": 13.8
+}, {
+    "timestamp": 1765069200,
+    "difficulty": 3111279500248975,
+    "hashrate": 225782256912117,
+    "block_time": 13.78
+}, {
+    "timestamp": 1765068600,
+    "difficulty": 3123487256991271,
+    "hashrate": 227493609394849,
+    "block_time": 13.73
+}, {
+    "timestamp": 1765068000,
+    "difficulty": 3117427603648991,
+    "hashrate": 227383486772355,
+    "block_time": 13.71
+}, {
+    "timestamp": 1765067400,
+    "difficulty": 3122043321533731,
+    "hashrate": 227388442937635,
+    "block_time": 13.73
+}, {
+    "timestamp": 1765066800,
+    "difficulty": 3108376860246628,
+    "hashrate": 226888821915812,
+    "block_time": 13.7
+}, {
+    "timestamp": 1765066200,
+    "difficulty": 3088733116546755,
+    "hashrate": 224308868304049,
+    "block_time": 13.77
+}, {
+    "timestamp": 1765065600,
+    "difficulty": 3072215190260747,
+    "hashrate": 222302112175163,
+    "block_time": 13.82
+}, {
+    "timestamp": 1765065000,
+    "difficulty": 3069243535266911,
+    "hashrate": 221606031427214,
+    "block_time": 13.85
+}, {
+    "timestamp": 1765064400,
+    "difficulty": 3070764895225155,
+    "hashrate": 221396171249110,
+    "block_time": 13.87
+}, {
+    "timestamp": 1765063800,
+    "difficulty": 3064799475552252,
+    "hashrate": 221125503286598,
+    "block_time": 13.86
+}, {
+    "timestamp": 1765063200,
+    "difficulty": 3084354278525990,
+    "hashrate": 222857968101589,
+    "block_time": 13.84
+}, {
+    "timestamp": 1765062600,
+    "difficulty": 3096455652439726,
+    "hashrate": 225033114276143,
+    "block_time": 13.76
+}, {
+    "timestamp": 1765062000,
+    "difficulty": 3085930268348569,
+    "hashrate": 224268188106727,
+    "block_time": 13.76
+}, {
+    "timestamp": 1765061400,
+    "difficulty": 3120821148562671,
+    "hashrate": 228464212925525,
+    "block_time": 13.66
+}, {
+    "timestamp": 1765060800,
+    "difficulty": 3134600672679806,
+    "hashrate": 230315993584115,
+    "block_time": 13.61
+}, {
+    "timestamp": 1765060200,
+    "difficulty": 3177810033185744,
+    "hashrate": 236620255635573,
+    "block_time": 13.43
+}, {
+    "timestamp": 1765059600,
+    "difficulty": 3198117238559073,
+    "hashrate": 239738923430215,
+    "block_time": 13.34
+}, {
+    "timestamp": 1765059000,
+    "difficulty": 3198146230484161,
+    "hashrate": 239741096737943,
+    "block_time": 13.34
+}, {
+    "timestamp": 1765058400,
+    "difficulty": 3213837939576369,
+    "hashrate": 240556732004219,
+    "block_time": 13.36
+}, {
+    "timestamp": 1765057800,
+    "difficulty": 3195087826218227,
+    "hashrate": 237906762935088,
+    "block_time": 13.43
+}, {
+    "timestamp": 1765057200,
+    "difficulty": 3206054369475432,
+    "hashrate": 237134198925698,
+    "block_time": 13.52
+}, {
+    "timestamp": 1765056600,
+    "difficulty": 3199820023614801,
+    "hashrate": 237023705452948,
+    "block_time": 13.5
+}, {
+    "timestamp": 1765056000,
+    "difficulty": 3185825259267489,
+    "hashrate": 234424228055003,
+    "block_time": 13.59
+}, {
+    "timestamp": 1765055400,
+    "difficulty": 3192083357641080,
+    "hashrate": 235404377407159,
+    "block_time": 13.56
+}, {
+    "timestamp": 1765054800,
+    "difficulty": 3175021840233243,
+    "hashrate": 233114672557507,
+    "block_time": 13.62
+}, {
+    "timestamp": 1765054200,
+    "difficulty": 3164216540183568,
+    "hashrate": 231810735544584,
+    "block_time": 13.65
+}, {
+    "timestamp": 1765053600,
+    "difficulty": 3178192207754950,
+    "hashrate": 233347445503300,
+    "block_time": 13.62
+}, {
+    "timestamp": 1765053000,
+    "difficulty": 3167368563691103,
+    "hashrate": 231871783579144,
+    "block_time": 13.66
+}, {
+    "timestamp": 1765052400,
+    "difficulty": 3184498430511740,
+    "hashrate": 234499148049465,
+    "block_time": 13.58
+}, {
+    "timestamp": 1765051800,
+    "difficulty": 3184518936838362,
+    "hashrate": 232956762021826,
+    "block_time": 13.67
+}, {
+    "timestamp": 1765051200,
+    "difficulty": 3156678983788926,
+    "hashrate": 230078643133304,
+    "block_time": 13.72
+}, {
+    "timestamp": 1765050600,
+    "difficulty": 3150542152599986,
+    "hashrate": 230302788932748,
+    "block_time": 13.68
+}, {
+    "timestamp": 1765050000,
+    "difficulty": 3144418004507682,
+    "hashrate": 229855117288573,
+    "block_time": 13.68
+}, {
+    "timestamp": 1765049400,
+    "difficulty": 3170662195873053,
+    "hashrate": 232623785463907,
+    "block_time": 13.63
+}, {
+    "timestamp": 1765048800,
+    "difficulty": 3169138207614814,
+    "hashrate": 233540030037938,
+    "block_time": 13.57
+}, {
+    "timestamp": 1765048200,
+    "difficulty": 3172289892889837,
+    "hashrate": 234290243197181,
+    "block_time": 13.54
+}, {
+    "timestamp": 1765047600,
+    "difficulty": 3200333183737276,
+    "hashrate": 238474901917830,
+    "block_time": 13.42
+}, {
+    "timestamp": 1765047000,
+    "difficulty": 3189456269911744,
+    "hashrate": 237134295160724,
+    "block_time": 13.45
+}, {
+    "timestamp": 1765046400,
+    "difficulty": 3186381095560127,
+    "hashrate": 234983856604729,
+    "block_time": 13.56
+}, {
+    "timestamp": 1765045800,
+    "difficulty": 3172451952209663,
+    "hashrate": 232925987680592,
+    "block_time": 13.62
+}, {
+    "timestamp": 1765045200,
+    "difficulty": 3189577284065650,
+    "hashrate": 234873143156528,
+    "block_time": 13.58
+}, {
+    "timestamp": 1765044600,
+    "difficulty": 3181831988933448,
+    "hashrate": 233614683475290,
+    "block_time": 13.62
+}, {
+    "timestamp": 1765044000,
+    "difficulty": 3155549549424725,
+    "hashrate": 231684988944547,
+    "block_time": 13.62
+}, {
+    "timestamp": 1765043400,
+    "difficulty": 3160217181009359,
+    "hashrate": 232539895585678,
+    "block_time": 13.59
+}, {
+    "timestamp": 1765042800,
+    "difficulty": 3177278767173004,
+    "hashrate": 235878156434521,
+    "block_time": 13.47
+}, {
+    "timestamp": 1765042200,
+    "difficulty": 3200657805161956,
+    "hashrate": 239570194997152,
+    "block_time": 13.36
+}, {
+    "timestamp": 1765041600,
+    "difficulty": 3192874174732437,
+    "hashrate": 238452141503543,
+    "block_time": 13.39
+}, {
+    "timestamp": 1765041000,
+    "difficulty": 3178905243582541,
+    "hashrate": 236701805181127,
+    "block_time": 13.43
+}, {
+    "timestamp": 1765040400,
+    "difficulty": 3175825080867563,
+    "hashrate": 235770236144585,
+    "block_time": 13.47
+}, {
+    "timestamp": 1765039800,
+    "difficulty": 3172753207357193,
+    "hashrate": 235018756100533,
+    "block_time": 13.5
+}, {
+    "timestamp": 1765039200,
+    "difficulty": 3178994730869186,
+    "hashrate": 236005547948715,
+    "block_time": 13.47
+}, {
+    "timestamp": 1765038600,
+    "difficulty": 3168177428297453,
+    "hashrate": 234159455158718,
+    "block_time": 13.53
+}, {
+    "timestamp": 1765038000,
+    "difficulty": 3163565216667859,
+    "hashrate": 234338164197619,
+    "block_time": 13.5
+}, {
+    "timestamp": 1765037400,
+    "difficulty": 3188407798095031,
+    "hashrate": 237056341865802,
+    "block_time": 13.45
+}, {
+    "timestamp": 1765036800,
+    "difficulty": 3169799241219521,
+    "hashrate": 236023770753501,
+    "block_time": 13.43
+}, {
+    "timestamp": 1765036200,
+    "difficulty": 3174481887703041,
+    "hashrate": 236901633410675,
+    "block_time": 13.4
+}, {
+    "timestamp": 1765035600,
+    "difficulty": 3183832237310547,
+    "hashrate": 238847129580686,
+    "block_time": 13.33
+}, {
+    "timestamp": 1765035000,
+    "difficulty": 3169902110646873,
+    "hashrate": 236559859003498,
+    "block_time": 13.4
+}, {
+    "timestamp": 1765034400,
+    "difficulty": 3166831427919571,
+    "hashrate": 236507201487645,
+    "block_time": 13.39
+}, {
+    "timestamp": 1765033800,
+    "difficulty": 3159136837361356,
+    "hashrate": 236285477738321,
+    "block_time": 13.37
+}, {
+    "timestamp": 1765033200,
+    "difficulty": 3131517291405868,
+    "hashrate": 232999798467699,
+    "block_time": 13.44
+}, {
+    "timestamp": 1765032600,
+    "difficulty": 3119337679821014,
+    "hashrate": 232960244945557,
+    "block_time": 13.39
+}, {
+    "timestamp": 1765032000,
+    "difficulty": 3128520361950018,
+    "hashrate": 235936678880092,
+    "block_time": 13.26
+}, {
+    "timestamp": 1765031400,
+    "difficulty": 3140807768553158,
+    "hashrate": 236863330961777,
+    "block_time": 13.26
+}, {
+    "timestamp": 1765030800,
+    "difficulty": 3154682317928179,
+    "hashrate": 238991084691529,
+    "block_time": 13.2
+}, {
+    "timestamp": 1765030200,
+    "difficulty": 3179476405300615,
+    "hashrate": 242708122542032,
+    "block_time": 13.1
+}, {
+    "timestamp": 1765029600,
+    "difficulty": 3160926764838872,
+    "hashrate": 239645698623114,
+    "block_time": 13.19
+}, {
+    "timestamp": 1765029000,
+    "difficulty": 3174878801710951,
+    "hashrate": 241619391302203,
+    "block_time": 13.14
+}, {
+    "timestamp": 1765028400,
+    "difficulty": 3181107800353399,
+    "hashrate": 242462484783033,
+    "block_time": 13.12
+}, {
+    "timestamp": 1765027800,
+    "difficulty": 3184249292525043,
+    "hashrate": 240866058436085,
+    "block_time": 13.22
+}, {
+    "timestamp": 1765027200,
+    "difficulty": 3171860798426868,
+    "hashrate": 238485774317810,
+    "block_time": 13.3
+}, {
+    "timestamp": 1765026600,
+    "difficulty": 3184308539145021,
+    "hashrate": 241418388108038,
+    "block_time": 13.19
+}, {
+    "timestamp": 1765026000,
+    "difficulty": 3170372542497047,
+    "hashrate": 239092951922854,
+    "block_time": 13.26
+}, {
+    "timestamp": 1765025400,
+    "difficulty": 3178179476917787,
+    "hashrate": 240406919585309,
+    "block_time": 13.22
+}, {
+    "timestamp": 1765024800,
+    "difficulty": 3206285560456105,
+    "hashrate": 243084576228666,
+    "block_time": 13.19
+}, {
+    "timestamp": 1765024200,
+    "difficulty": 3217292089249350,
+    "hashrate": 244104103888418,
+    "block_time": 13.18
+}, {
+    "timestamp": 1765023600,
+    "difficulty": 3203206385798052,
+    "hashrate": 242300029182909,
+    "block_time": 13.22
+}, {
+    "timestamp": 1765023000,
+    "difficulty": 3197000495389911,
+    "hashrate": 239834995903219,
+    "block_time": 13.33
+}, {
+    "timestamp": 1765022400,
+    "difficulty": 3186121932012941,
+    "hashrate": 239198343244215,
+    "block_time": 13.32
+}, {
+    "timestamp": 1765021800,
+    "difficulty": 3186156903454715,
+    "hashrate": 238128318643850,
+    "block_time": 13.38
+}, {
+    "timestamp": 1765021200,
+    "difficulty": 3179974911812483,
+    "hashrate": 237666286383594,
+    "block_time": 13.38
+}, {
+    "timestamp": 1765020600,
+    "difficulty": 3161420098057993,
+    "hashrate": 234875193020653,
+    "block_time": 13.46
+}, {
+    "timestamp": 1765020000,
+    "difficulty": 3153738658594415,
+    "hashrate": 233956873782968,
+    "block_time": 13.48
+}, {
+    "timestamp": 1765019400,
+    "difficulty": 3192533751504079,
+    "hashrate": 238426717812104,
+    "block_time": 13.39
+}, {
+    "timestamp": 1765018800,
+    "difficulty": 3208189500908097,
+    "hashrate": 240855067635743,
+    "block_time": 13.32
+}, {
+    "timestamp": 1765018200,
+    "difficulty": 3205071788527583,
+    "hashrate": 240982841242675,
+    "block_time": 13.3
+}, {
+    "timestamp": 1765017600,
+    "difficulty": 3205095489928491,
+    "hashrate": 241711575409388,
+    "block_time": 13.26
+}, {
+    "timestamp": 1765017000,
+    "difficulty": 3200432589877095,
+    "hashrate": 241178039930452,
+    "block_time": 13.27
+}, {
+    "timestamp": 1765016400,
+    "difficulty": 3194238174872667,
+    "hashrate": 240711241512635,
+    "block_time": 13.27
+}, {
+    "timestamp": 1765015800,
+    "difficulty": 3172505023701108,
+    "hashrate": 237462950875831,
+    "block_time": 13.36
+}, {
+    "timestamp": 1765015200,
+    "difficulty": 3140159010768340,
+    "hashrate": 232949481511004,
+    "block_time": 13.48
+}, {
+    "timestamp": 1765014600,
+    "difficulty": 3146324399343893,
+    "hashrate": 234975683296781,
+    "block_time": 13.39
+}, {
+    "timestamp": 1765014000,
+    "difficulty": 3157127338502916,
+    "hashrate": 236311926534649,
+    "block_time": 13.36
+}, {
+    "timestamp": 1765013400,
+    "difficulty": 3166413708824017,
+    "hashrate": 237540413265118,
+    "block_time": 13.33
+}, {
+    "timestamp": 1765012800,
+    "difficulty": 3175729672925077,
+    "hashrate": 238597270693094,
+    "block_time": 13.31
+}, {
+    "timestamp": 1765012200,
+    "difficulty": 3177306095841231,
+    "hashrate": 239074950778121,
+    "block_time": 13.29
+}, {
+    "timestamp": 1765011600,
+    "difficulty": 3175805452833551,
+    "hashrate": 237000406927877,
+    "block_time": 13.4
+}, {
+    "timestamp": 1765011000,
+    "difficulty": 3178962227487875,
+    "hashrate": 237413161126802,
+    "block_time": 13.39
+}, {
+    "timestamp": 1765010400,
+    "difficulty": 3172786622024375,
+    "hashrate": 236070433186337,
+    "block_time": 13.44
+}, {
+    "timestamp": 1765009800,
+    "difficulty": 3135847959522088,
+    "hashrate": 232285034038673,
+    "block_time": 13.5
+}, {
+    "timestamp": 1765009200,
+    "difficulty": 3141998128590416,
+    "hashrate": 233953695352972,
+    "block_time": 13.43
+}, {
+    "timestamp": 1765008600,
+    "difficulty": 3137421785283324,
+    "hashrate": 233612940080665,
+    "block_time": 13.43
+}, {
+    "timestamp": 1765008000,
+    "difficulty": 3132858839335501,
+    "hashrate": 232753257008581,
+    "block_time": 13.46
+}, {
+    "timestamp": 1765007400,
+    "difficulty": 3125252774847399,
+    "hashrate": 232360801103896,
+    "block_time": 13.45
+}, {
+    "timestamp": 1765006800,
+    "difficulty": 3134451382475845,
+    "hashrate": 232871573735204,
+    "block_time": 13.46
+}, {
+    "timestamp": 1765006200,
+    "difficulty": 3128352540284054,
+    "hashrate": 232245919842914,
+    "block_time": 13.47
+}, {
+    "timestamp": 1765005600,
+    "difficulty": 3111624222444587,
+    "hashrate": 230149720595014,
+    "block_time": 13.52
+}, {
+    "timestamp": 1765005000,
+    "difficulty": 3096501763420963,
+    "hashrate": 227683953192718,
+    "block_time": 13.6
+}, {
+    "timestamp": 1765004400,
+    "difficulty": 3085967378415690,
+    "hashrate": 227243547747842,
+    "block_time": 13.58
+}, {
+    "timestamp": 1765003800,
+    "difficulty": 3078469264669715,
+    "hashrate": 225859813988974,
+    "block_time": 13.63
+}, {
+    "timestamp": 1765003200,
+    "difficulty": 3086038804057705,
+    "hashrate": 227920148010170,
+    "block_time": 13.54
+}, {
+    "timestamp": 1765002600,
+    "difficulty": 3090585164949261,
+    "hashrate": 227751301764868,
+    "block_time": 13.57
+}, {
+    "timestamp": 1765002000,
+    "difficulty": 3099675811097097,
+    "hashrate": 229265962359253,
+    "block_time": 13.52
+}, {
+    "timestamp": 1765001400,
+    "difficulty": 3116391929538944,
+    "hashrate": 231529861035583,
+    "block_time": 13.46
+}, {
+    "timestamp": 1765000800,
+    "difficulty": 3133219162554829,
+    "hashrate": 232953097587720,
+    "block_time": 13.45
+}, {
+    "timestamp": 1765000200,
+    "difficulty": 3111909352063942,
+    "hashrate": 227978707110912,
+    "block_time": 13.65
+}, {
+    "timestamp": 1764999600,
+    "difficulty": 3118040882509523,
+    "hashrate": 228427903480551,
+    "block_time": 13.65
+}, {
+    "timestamp": 1764999000,
+    "difficulty": 3118069141247118,
+    "hashrate": 227430280178491,
+    "block_time": 13.71
+}, {
+    "timestamp": 1764998400,
+    "difficulty": 3130311017136717,
+    "hashrate": 229831939584194,
+    "block_time": 13.62
+}, {
+    "timestamp": 1764997800,
+    "difficulty": 3141064982855211,
+    "hashrate": 231641960387552,
+    "block_time": 13.56
+}, {
+    "timestamp": 1764997200,
+    "difficulty": 3145701424520751,
+    "hashrate": 233187651928892,
+    "block_time": 13.49
+}, {
+    "timestamp": 1764996600,
+    "difficulty": 3148818493903104,
+    "hashrate": 233591876402307,
+    "block_time": 13.48
+}, {
+    "timestamp": 1764996000,
+    "difficulty": 3172018461063873,
+    "hashrate": 235487636307637,
+    "block_time": 13.47
+}, {
+    "timestamp": 1764995400,
+    "difficulty": 3153515339022245,
+    "hashrate": 234113982110040,
+    "block_time": 13.47
+}, {
+    "timestamp": 1764994800,
+    "difficulty": 3148945555546738,
+    "hashrate": 232738030712989,
+    "block_time": 13.53
+}, {
+    "timestamp": 1764994200,
+    "difficulty": 3155146281866068,
+    "hashrate": 233368807830330,
+    "block_time": 13.52
+}, {
+    "timestamp": 1764993600,
+    "difficulty": 3165971961301146,
+    "hashrate": 235038749910998,
+    "block_time": 13.47
+}, {
+    "timestamp": 1764993000,
+    "difficulty": 3167556389308633,
+    "hashrate": 235331083901087,
+    "block_time": 13.46
+}, {
+    "timestamp": 1764992400,
+    "difficulty": 3175355617106285,
+    "hashrate": 236085919487456,
+    "block_time": 13.45
+}, {
+    "timestamp": 1764991800,
+    "difficulty": 3172297825008508,
+    "hashrate": 234463992979195,
+    "block_time": 13.53
+}, {
+    "timestamp": 1764991200,
+    "difficulty": 3146098641942643,
+    "hashrate": 232527615812464,
+    "block_time": 13.53
+}, {
+    "timestamp": 1764990600,
+    "difficulty": 3144590208141309,
+    "hashrate": 232588033146547,
+    "block_time": 13.52
+}, {
+    "timestamp": 1764990000,
+    "difficulty": 3147705417848865,
+    "hashrate": 233856271756974,
+    "block_time": 13.46
+}, {
+    "timestamp": 1764989400,
+    "difficulty": 3130883333193192,
+    "hashrate": 231232151639084,
+    "block_time": 13.54
+}, {
+    "timestamp": 1764988800,
+    "difficulty": 3143165010666192,
+    "hashrate": 232827037827125,
+    "block_time": 13.5
+}, {
+    "timestamp": 1764988200,
+    "difficulty": 3152436690222719,
+    "hashrate": 235432165065177,
+    "block_time": 13.39
+}, {
+    "timestamp": 1764987600,
+    "difficulty": 3127922876607351,
+    "hashrate": 232386543581527,
+    "block_time": 13.46
+}, {
+    "timestamp": 1764987000,
+    "difficulty": 3118811903862192,
+    "hashrate": 230852102432435,
+    "block_time": 13.51
+}, {
+    "timestamp": 1764986400,
+    "difficulty": 3131064196078184,
+    "hashrate": 232274791993931,
+    "block_time": 13.48
+}, {
+    "timestamp": 1764985800,
+    "difficulty": 3114311720405828,
+    "hashrate": 230860765041203,
+    "block_time": 13.49
+}, {
+    "timestamp": 1764985200,
+    "difficulty": 3134174220719620,
+    "hashrate": 234068276379359,
+    "block_time": 13.39
+}, {
+    "timestamp": 1764984600,
+    "difficulty": 3151089930777820,
+    "hashrate": 236746050396530,
+    "block_time": 13.31
+}, {
+    "timestamp": 1764984000,
+    "difficulty": 3135773411328999,
+    "hashrate": 235418424273949,
+    "block_time": 13.32
+}, {
+    "timestamp": 1764983400,
+    "difficulty": 3138870136615372,
+    "hashrate": 235827959174709,
+    "block_time": 13.31
+}, {
+    "timestamp": 1764982800,
+    "difficulty": 3132785130311759,
+    "hashrate": 235902494752392,
+    "block_time": 13.28
+}, {
+    "timestamp": 1764982200,
+    "difficulty": 3111470093457907,
+    "hashrate": 233945119808865,
+    "block_time": 13.3
+}, {
+    "timestamp": 1764981600,
+    "difficulty": 3113009411086649,
+    "hashrate": 235655519385817,
+    "block_time": 13.21
+}, {
+    "timestamp": 1764981000,
+    "difficulty": 3120643012459793,
+    "hashrate": 238035317502654,
+    "block_time": 13.11
+}, {
+    "timestamp": 1764980400,
+    "difficulty": 3100919532731596,
+    "hashrate": 236350574141128,
+    "block_time": 13.12
+}, {
+    "timestamp": 1764979800,
+    "difficulty": 3107031644147187,
+    "hashrate": 237904413793812,
+    "block_time": 13.06
+}, {
+    "timestamp": 1764979200,
+    "difficulty": 3105553076758641,
+    "hashrate": 237427605256777,
+    "block_time": 13.08
+}, {
+    "timestamp": 1764978600,
+    "difficulty": 3104061123458892,
+    "hashrate": 237132247781428,
+    "block_time": 13.09
+}, {
+    "timestamp": 1764978000,
+    "difficulty": 3102564705331420,
+    "hashrate": 236116035413350,
+    "block_time": 13.14
+}, {
+    "timestamp": 1764977400,
+    "difficulty": 3098085785490366,
+    "hashrate": 235416853000788,
+    "block_time": 13.16
+}, {
+    "timestamp": 1764976800,
+    "difficulty": 3099635496137763,
+    "hashrate": 234820870919528,
+    "block_time": 13.2
+}, {
+    "timestamp": 1764976200,
+    "difficulty": 3099662117259640,
+    "hashrate": 235715750361950,
+    "block_time": 13.15
+}, {
+    "timestamp": 1764975600,
+    "difficulty": 3111840647832424,
+    "hashrate": 237002334183734,
+    "block_time": 13.13
+}, {
+    "timestamp": 1764975000,
+    "difficulty": 3098241035559313,
+    "hashrate": 235249888804807,
+    "block_time": 13.17
+}, {
+    "timestamp": 1764974400,
+    "difficulty": 3089201756012666,
+    "hashrate": 233499754800655,
+    "block_time": 13.23
+}, {
+    "timestamp": 1764973800,
+    "difficulty": 3102843876367576,
+    "hashrate": 235778410058326,
+    "block_time": 13.16
+}, {
+    "timestamp": 1764973200,
+    "difficulty": 3136390051171835,
+    "hashrate": 241075330605060,
+    "block_time": 13.01
+}, {
+    "timestamp": 1764972600,
+    "difficulty": 3154875535420283,
+    "hashrate": 241938307931003,
+    "block_time": 13.04
+}, {
+    "timestamp": 1764972000,
+    "difficulty": 3168811462688662,
+    "hashrate": 244507057306224,
+    "block_time": 12.96
+}, {
+    "timestamp": 1764971400,
+    "difficulty": 3189026107433797,
+    "hashrate": 246066829277299,
+    "block_time": 12.96
+}, {
+    "timestamp": 1764970800,
+    "difficulty": 3161149020579466,
+    "hashrate": 242233641423714,
+    "block_time": 13.05
+}, {
+    "timestamp": 1764970200,
+    "difficulty": 3142713061377514,
+    "hashrate": 239901760410497,
+    "block_time": 13.1
+}, {
+    "timestamp": 1764969600,
+    "difficulty": 3145821162809261,
+    "hashrate": 239955847658983,
+    "block_time": 13.11
+}, {
+    "timestamp": 1764969000,
+    "difficulty": 3172100569413872,
+    "hashrate": 242515334053048,
+    "block_time": 13.08
+}, {
+    "timestamp": 1764968400,
+    "difficulty": 3148987214181954,
+    "hashrate": 240197346619524,
+    "block_time": 13.11
+}, {
+    "timestamp": 1764967800,
+    "difficulty": 3155181991236837,
+    "hashrate": 241591270385669,
+    "block_time": 13.06
+}, {
+    "timestamp": 1764967200,
+    "difficulty": 3159828707338481,
+    "hashrate": 241392567405537,
+    "block_time": 13.09
+}, {
+    "timestamp": 1764966600,
+    "difficulty": 3155224889132643,
+    "hashrate": 239576681027536,
+    "block_time": 13.17
+}, {
+    "timestamp": 1764966000,
+    "difficulty": 3150648845945414,
+    "hashrate": 238866478085323,
+    "block_time": 13.19
+}, {
+    "timestamp": 1764965400,
+    "difficulty": 3153755742583863,
+    "hashrate": 238199074213283,
+    "block_time": 13.24
+}, {
+    "timestamp": 1764964800,
+    "difficulty": 3173884228558906,
+    "hashrate": 240993487362104,
+    "block_time": 13.17
+}, {
+    "timestamp": 1764964200,
+    "difficulty": 3156910179244022,
+    "hashrate": 238077690742385,
+    "block_time": 13.26
+}, {
+    "timestamp": 1764963600,
+    "difficulty": 3160027774401080,
+    "hashrate": 237953898674780,
+    "block_time": 13.28
+}, {
+    "timestamp": 1764963000,
+    "difficulty": 3132410166923871,
+    "hashrate": 233413574286429,
+    "block_time": 13.42
+}, {
+    "timestamp": 1764962400,
+    "difficulty": 3135514803316883,
+    "hashrate": 234343408319647,
+    "block_time": 13.38
+}, {
+    "timestamp": 1764961800,
+    "difficulty": 3135554462545291,
+    "hashrate": 234171356426086,
+    "block_time": 13.39
+}, {
+    "timestamp": 1764961200,
+    "difficulty": 3117268520243345,
+    "hashrate": 231939622041916,
+    "block_time": 13.44
+}, {
+    "timestamp": 1764960600,
+    "difficulty": 3120349948325135,
+    "hashrate": 231308372744636,
+    "block_time": 13.49
+}, {
+    "timestamp": 1764960000,
+    "difficulty": 3131068962350345,
+    "hashrate": 232793231401513,
+    "block_time": 13.45
+}, {
+    "timestamp": 1764959400,
+    "difficulty": 3135694395244315,
+    "hashrate": 232790972178494,
+    "block_time": 13.47
+}, {
+    "timestamp": 1764958800,
+    "difficulty": 3126546593371532,
+    "hashrate": 231767723748816,
+    "block_time": 13.49
+}, {
+    "timestamp": 1764958200,
+    "difficulty": 3112866356009676,
+    "hashrate": 229731834391858,
+    "block_time": 13.55
+}, {
+    "timestamp": 1764957600,
+    "difficulty": 3099243760637790,
+    "hashrate": 229403683244840,
+    "block_time": 13.51
+}, {
+    "timestamp": 1764957000,
+    "difficulty": 3093237049619576,
+    "hashrate": 228959071030317,
+    "block_time": 13.51
+}, {
+    "timestamp": 1764956400,
+    "difficulty": 3087227978025393,
+    "hashrate": 227169093305768,
+    "block_time": 13.59
+}, {
+    "timestamp": 1764955800,
+    "difficulty": 3069227519422836,
+    "hashrate": 224851832924750,
+    "block_time": 13.65
+}, {
+    "timestamp": 1764955200,
+    "difficulty": 3036462718685755,
+    "hashrate": 222288632407449,
+    "block_time": 13.66
+}, {
+    "timestamp": 1764954600,
+    "difficulty": 3014326170576351,
+    "hashrate": 220184526703897,
+    "block_time": 13.69
+}, {
+    "timestamp": 1764954000,
+    "difficulty": 2987966249731792,
+    "hashrate": 214344781185925,
+    "block_time": 13.94
+}, {
+    "timestamp": 1764953400,
+    "difficulty": 2986559313380712,
+    "hashrate": 214705917568707,
+    "block_time": 13.91
+}, {
+    "timestamp": 1764952800,
+    "difficulty": 2980770285757528,
+    "hashrate": 213828571431673,
+    "block_time": 13.94
+}, {
+    "timestamp": 1764952200,
+    "difficulty": 2988098892541571,
+    "hashrate": 215903099172079,
+    "block_time": 13.84
+}, {
+    "timestamp": 1764951600,
+    "difficulty": 3004243439857360,
+    "hashrate": 216600103810913,
+    "block_time": 13.87
+}, {
+    "timestamp": 1764951000,
+    "difficulty": 3010151310684414,
+    "hashrate": 216869690971500,
+    "block_time": 13.88
+}, {
+    "timestamp": 1764950400,
+    "difficulty": 3024915569116376,
+    "hashrate": 217619825116286,
+    "block_time": 13.9
+}, {
+    "timestamp": 1764949800,
+    "difficulty": 3004331594590153,
+    "hashrate": 214136250505357,
+    "block_time": 14.03
+}, {
+    "timestamp": 1764949200,
+    "difficulty": 3010241077683042,
+    "hashrate": 214099649906333,
+    "block_time": 14.06
+}, {
+    "timestamp": 1764948600,
+    "difficulty": 3017627718466975,
+    "hashrate": 214472474660055,
+    "block_time": 14.07
+}, {
+    "timestamp": 1764948000,
+    "difficulty": 3032433722423596,
+    "hashrate": 215218858937090,
+    "block_time": 14.09
+}, {
+    "timestamp": 1764947400,
+    "difficulty": 3007387490266338,
+    "hashrate": 211787851427207,
+    "block_time": 14.2
+}, {
+    "timestamp": 1764946800,
+    "difficulty": 3019267971846810,
+    "hashrate": 210695601664118,
+    "block_time": 14.33
+}, {
+    "timestamp": 1764946200,
+    "difficulty": 3014876141249195,
+    "hashrate": 210389123604270,
+    "block_time": 14.33
+}, {
+    "timestamp": 1764945600,
+    "difficulty": 3013434228549512,
+    "hashrate": 209411690656672,
+    "block_time": 14.39
+}, {
+    "timestamp": 1764945000,
+    "difficulty": 3014950987711496,
+    "hashrate": 208791619647611,
+    "block_time": 14.44
+}, {
+    "timestamp": 1764944400,
+    "difficulty": 3014981923865321,
+    "hashrate": 207786486827383,
+    "block_time": 14.51
+}, {
+    "timestamp": 1764943800,
+    "difficulty": 3025353428746725,
+    "hashrate": 207785262963374,
+    "block_time": 14.56
+}, {
+    "timestamp": 1764943200,
+    "difficulty": 3016534725720971,
+    "hashrate": 206329324604718,
+    "block_time": 14.62
+}, {
+    "timestamp": 1764942600,
+    "difficulty": 3020988073304379,
+    "hashrate": 207058812426620,
+    "block_time": 14.59
+}, {
+    "timestamp": 1764942000,
+    "difficulty": 3019540357115251,
+    "hashrate": 204437397231906,
+    "block_time": 14.77
+}, {
+    "timestamp": 1764941400,
+    "difficulty": 3012219481023744,
+    "hashrate": 204079910638465,
+    "block_time": 14.76
+}, {
+    "timestamp": 1764940800,
+    "difficulty": 3025520195618959,
+    "hashrate": 205538056767592,
+    "block_time": 14.72
+}, {
+    "timestamp": 1764940200,
+    "difficulty": 3032962455562732,
+    "hashrate": 203828122013624,
+    "block_time": 14.88
+}, {
+    "timestamp": 1764939600,
+    "difficulty": 3041900307922669,
+    "hashrate": 204291491465592,
+    "block_time": 14.89
+}, {
+    "timestamp": 1764939000,
+    "difficulty": 3062794285699504,
+    "hashrate": 204732238348897,
+    "block_time": 14.96
+}, {
+    "timestamp": 1764938400,
+    "difficulty": 3056847271772583,
+    "hashrate": 202038815054368,
+    "block_time": 15.13
+}, {
+    "timestamp": 1764937800,
+    "difficulty": 3071869217675486,
+    "hashrate": 203704855283520,
+    "block_time": 15.08
+}, {
+    "timestamp": 1764937200,
+    "difficulty": 3074904302192535,
+    "hashrate": 203232273773466,
+    "block_time": 15.13
+}, {
+    "timestamp": 1764936600,
+    "difficulty": 3091505286238426,
+    "hashrate": 205006981846049,
+    "block_time": 15.08
+}, {
+    "timestamp": 1764936000,
+    "difficulty": 3094558314891326,
+    "hashrate": 205345608154700,
+    "block_time": 15.07
+}, {
+    "timestamp": 1764935400,
+    "difficulty": 3090057701439825,
+    "hashrate": 204910988159140,
+    "block_time": 15.08
+}, {
+    "timestamp": 1764934800,
+    "difficulty": 3093111496977119,
+    "hashrate": 205385889573514,
+    "block_time": 15.06
+}, {
+    "timestamp": 1764934200,
+    "difficulty": 3108295276070258,
+    "hashrate": 207081630650917,
+    "block_time": 15.01
+}, {
+    "timestamp": 1764933600,
+    "difficulty": 3106809429246030,
+    "hashrate": 206569775880720,
+    "block_time": 15.04
+}, {
+    "timestamp": 1764933000,
+    "difficulty": 3099298464083205,
+    "hashrate": 206482242777029,
+    "block_time": 15.01
+}, {
+    "timestamp": 1764932400,
+    "difficulty": 3116034118332911,
+    "hashrate": 207183119570007,
+    "block_time": 15.04
+}, {
+    "timestamp": 1764931800,
+    "difficulty": 3111500049363253,
+    "hashrate": 206744189326462,
+    "block_time": 15.05
+}, {
+    "timestamp": 1764931200,
+    "difficulty": 3131350605293153,
+    "hashrate": 207925006991577,
+    "block_time": 15.06
+}, {
+    "timestamp": 1764930600,
+    "difficulty": 3093381697480654,
+    "hashrate": 203511953781622,
+    "block_time": 15.2
+}, {
+    "timestamp": 1764930000,
+    "difficulty": 3094914280009073,
+    "hashrate": 203478913873049,
+    "block_time": 15.21
+}, {
+    "timestamp": 1764929400,
+    "difficulty": 3096466861224488,
+    "hashrate": 203580990218573,
+    "block_time": 15.21
+}, {
+    "timestamp": 1764928800,
+    "difficulty": 3114708833120743,
+    "hashrate": 205185035119944,
+    "block_time": 15.18
+}, {
+    "timestamp": 1764928200,
+    "difficulty": 3088983790343948,
+    "hashrate": 202822310593825,
+    "block_time": 15.23
+}, {
+    "timestamp": 1764927600,
+    "difficulty": 3084497186192544,
+    "hashrate": 201997196214312,
+    "block_time": 15.27
+}, {
+    "timestamp": 1764927000,
+    "difficulty": 3090585056605331,
+    "hashrate": 203327964250351,
+    "block_time": 15.2
+}, {
+    "timestamp": 1764926400,
+    "difficulty": 3117916521896340,
+    "hashrate": 206484537873930,
+    "block_time": 15.1
+}, {
+    "timestamp": 1764925800,
+    "difficulty": 3139346877937414,
+    "hashrate": 208455967990532,
+    "block_time": 15.06
+}, {
+    "timestamp": 1764925200,
+    "difficulty": 3107347091000644,
+    "hashrate": 205376542696672,
+    "block_time": 15.13
+}, {
+    "timestamp": 1764924600,
+    "difficulty": 3121055923461201,
+    "hashrate": 206692445262331,
+    "block_time": 15.1
+}, {
+    "timestamp": 1764924000,
+    "difficulty": 3115028548981267,
+    "hashrate": 207530216454448,
+    "block_time": 15.01
+}, {
+    "timestamp": 1764923400,
+    "difficulty": 3122693968688069,
+    "hashrate": 208179597912538,
+    "block_time": 15
+}, {
+    "timestamp": 1764922800,
+    "difficulty": 3139548459657448,
+    "hashrate": 209722675995822,
+    "block_time": 14.97
+}, {
+    "timestamp": 1764922200,
+    "difficulty": 3154962474878577,
+    "hashrate": 211742447978428,
+    "block_time": 14.9
+}, {
+    "timestamp": 1764921600,
+    "difficulty": 3193762705551310,
+    "hashrate": 215068195660021,
+    "block_time": 14.85
+}, {
+    "timestamp": 1764921000,
+    "difficulty": 3203160672997424,
+    "hashrate": 215410939677029,
+    "block_time": 14.87
+}, {
+    "timestamp": 1764920400,
+    "difficulty": 3218889288562796,
+    "hashrate": 217052548116170,
+    "block_time": 14.83
+}, {
+    "timestamp": 1764919800,
+    "difficulty": 3234717590651477,
+    "hashrate": 218267043903608,
+    "block_time": 14.82
+}, {
+    "timestamp": 1764919200,
+    "difficulty": 3253766270634949,
+    "hashrate": 220594323432878,
+    "block_time": 14.75
+}, {
+    "timestamp": 1764918600,
+    "difficulty": 3269731662153271,
+    "hashrate": 222128509657152,
+    "block_time": 14.72
+}, {
+    "timestamp": 1764918000,
+    "difficulty": 3313196325387391,
+    "hashrate": 227086794063563,
+    "block_time": 14.59
+}, {
+    "timestamp": 1764917400,
+    "difficulty": 3319710155532815,
+    "hashrate": 228315691577223,
+    "block_time": 14.54
+}, {
+    "timestamp": 1764916800,
+    "difficulty": 3329473958369449,
+    "hashrate": 229936046848719,
+    "block_time": 14.48
+}, {
+    "timestamp": 1764916200,
+    "difficulty": 3347454135402846,
+    "hashrate": 231818153421250,
+    "block_time": 14.44
+}, {
+    "timestamp": 1764915600,
+    "difficulty": 3372089385503152,
+    "hashrate": 234010366794112,
+    "block_time": 14.41
+}, {
+    "timestamp": 1764915000,
+    "difficulty": 3393613778792681,
+    "hashrate": 235504079027945,
+    "block_time": 14.41
+}, {
+    "timestamp": 1764914400,
+    "difficulty": 3416945637095099,
+    "hashrate": 238280727830900,
+    "block_time": 14.34
+}, {
+    "timestamp": 1764913800,
+    "difficulty": 3423665089578754,
+    "hashrate": 238582933071690,
+    "block_time": 14.35
+}, {
+    "timestamp": 1764913200,
+    "difficulty": 3445538489530474,
+    "hashrate": 241284207950313,
+    "block_time": 14.28
+}, {
+    "timestamp": 1764912600,
+    "difficulty": 3476026445713456,
+    "hashrate": 244274521835099,
+    "block_time": 14.23
+}, {
+    "timestamp": 1764912000,
+    "difficulty": 3491372634541839,
+    "hashrate": 245352960965695,
+    "block_time": 14.23
+}, {
+    "timestamp": 1764911400,
+    "difficulty": 3498240959470300,
+    "hashrate": 245662988726847,
+    "block_time": 14.24
+}, {
+    "timestamp": 1764910800,
+    "difficulty": 3536127955659737,
+    "hashrate": 250433991194032,
+    "block_time": 14.12
+}, {
+    "timestamp": 1764910200,
+    "difficulty": 3576185301113960,
+    "hashrate": 255259479023124,
+    "block_time": 14.01
+}, {
+    "timestamp": 1764909600,
+    "difficulty": 3602534003311677,
+    "hashrate": 257691988791965,
+    "block_time": 13.98
+}, {
+    "timestamp": 1764909000,
+    "difficulty": 3637940326149953,
+    "hashrate": 261534171542053,
+    "block_time": 13.91
+}, {
+    "timestamp": 1764908400,
+    "difficulty": 3682735049403477,
+    "hashrate": 267058379217076,
+    "block_time": 13.79
+}, {
+    "timestamp": 1764907800,
+    "difficulty": 3708082194350597,
+    "hashrate": 270465513811130,
+    "block_time": 13.71
+}, {
+    "timestamp": 1764907200,
+    "difficulty": 3715405250158341,
+    "hashrate": 270014916435926,
+    "block_time": 13.76
+}, {
+    "timestamp": 1764906600,
+    "difficulty": 3715426517734904,
+    "hashrate": 270212837653448,
+    "block_time": 13.75
+}, {
+    "timestamp": 1764906000,
+    "difficulty": 3724541783917765,
+    "hashrate": 269503747027335,
+    "block_time": 13.82
+}, {
+    "timestamp": 1764905400,
+    "difficulty": 3715490332460754,
+    "hashrate": 269043470851611,
+    "block_time": 13.81
+}, {
+    "timestamp": 1764904800,
+    "difficulty": 3728241275582943,
+    "hashrate": 271342159794974,
+    "block_time": 13.74
+}, {
+    "timestamp": 1764904200,
+    "difficulty": 3708299856392008,
+    "hashrate": 271074550905849,
+    "block_time": 13.68
+}, {
+    "timestamp": 1764903600,
+    "difficulty": 3728314215923870,
+    "hashrate": 273738195001753,
+    "block_time": 13.62
+}, {
+    "timestamp": 1764903000,
+    "difficulty": 3699350561266529,
+    "hashrate": 271213384257077,
+    "block_time": 13.64
+}, {
+    "timestamp": 1764902400,
+    "difficulty": 3719313957858480,
+    "hashrate": 273077383102678,
+    "block_time": 13.62
+}, {
+    "timestamp": 1764901800,
+    "difficulty": 3728434308850056,
+    "hashrate": 273747012397214,
+    "block_time": 13.62
+}, {
+    "timestamp": 1764901200,
+    "difficulty": 3743063619221343,
+    "hashrate": 276444875865683,
+    "block_time": 13.54
+}, {
+    "timestamp": 1764900600,
+    "difficulty": 3761419092773536,
+    "hashrate": 279659412102122,
+    "block_time": 13.45
+}, {
+    "timestamp": 1764900000,
+    "difficulty": 3750460184868417,
+    "hashrate": 280094113881136,
+    "block_time": 13.39
+}, {
+    "timestamp": 1764899400,
+    "difficulty": 3744996720110252,
+    "hashrate": 280524098884663,
+    "block_time": 13.35
+}, {
+    "timestamp": 1764898800,
+    "difficulty": 3746859292686056,
+    "hashrate": 281718743810982,
+    "block_time": 13.3
+}, {
+    "timestamp": 1764898200,
+    "difficulty": 3759727761381322,
+    "hashrate": 284612245373302,
+    "block_time": 13.21
+}, {
+    "timestamp": 1764897600,
+    "difficulty": 3739620600231498,
+    "hashrate": 280752297314677,
+    "block_time": 13.32
+}, {
+    "timestamp": 1764897000,
+    "difficulty": 3743308284495928,
+    "hashrate": 281663527802553,
+    "block_time": 13.29
+}, {
+    "timestamp": 1764896400,
+    "difficulty": 3717825139713452,
+    "hashrate": 278906612131542,
+    "block_time": 13.33
+}, {
+    "timestamp": 1764895800,
+    "difficulty": 3712412760661173,
+    "hashrate": 278709666716304,
+    "block_time": 13.32
+}, {
+    "timestamp": 1764895200,
+    "difficulty": 3723348454313800,
+    "hashrate": 279530664738273,
+    "block_time": 13.32
+}, {
+    "timestamp": 1764894600,
+    "difficulty": 3719738098340085,
+    "hashrate": 279050119905483,
+    "block_time": 13.33
+}, {
+    "timestamp": 1764894000,
+    "difficulty": 3698049714192333,
+    "hashrate": 275973859268085,
+    "block_time": 13.4
+}, {
+    "timestamp": 1764893400,
+    "difficulty": 3708951955137533,
+    "hashrate": 277408523196525,
+    "block_time": 13.37
+}, {
+    "timestamp": 1764892800,
+    "difficulty": 3710818775303939,
+    "hashrate": 279008930473980,
+    "block_time": 13.3
+}, {
+    "timestamp": 1764892200,
+    "difficulty": 3701785655290363,
+    "hashrate": 277287315003023,
+    "block_time": 13.35
+}, {
+    "timestamp": 1764891600,
+    "difficulty": 3738158492144773,
+    "hashrate": 282125169218473,
+    "block_time": 13.25
+}, {
+    "timestamp": 1764891000,
+    "difficulty": 3741850114431875,
+    "hashrate": 283473493517566,
+    "block_time": 13.2
+}, {
+    "timestamp": 1764890400,
+    "difficulty": 3738236975852665,
+    "hashrate": 282131092517182,
+    "block_time": 13.25
+}, {
+    "timestamp": 1764889800,
+    "difficulty": 3745585570544746,
+    "hashrate": 282472516632334,
+    "block_time": 13.26
+}, {
+    "timestamp": 1764889200,
+    "difficulty": 3741973296245124,
+    "hashrate": 282200097756043,
+    "block_time": 13.26
+}, {
+    "timestamp": 1764888600,
+    "difficulty": 3736519516926429,
+    "hashrate": 282214465024655,
+    "block_time": 13.24
+}, {
+    "timestamp": 1764888000,
+    "difficulty": 3731082591430925,
+    "hashrate": 280532525671498,
+    "block_time": 13.3
+}, {
+    "timestamp": 1764887400,
+    "difficulty": 3736586373525648,
+    "hashrate": 281793844157289,
+    "block_time": 13.26
+}, {
+    "timestamp": 1764886800,
+    "difficulty": 3742100945657839,
+    "hashrate": 281997056944826,
+    "block_time": 13.27
+}, {
+    "timestamp": 1764886200,
+    "difficulty": 3754956670481382,
+    "hashrate": 284466414430408,
+    "block_time": 13.2
+}, {
+    "timestamp": 1764885600,
+    "difficulty": 3762335435437043,
+    "hashrate": 284809646891525,
+    "block_time": 13.21
+}, {
+    "timestamp": 1764885000,
+    "difficulty": 3764202138861255,
+    "hashrate": 284090727461227,
+    "block_time": 13.25
+}, {
+    "timestamp": 1764884400,
+    "difficulty": 3760579138666848,
+    "hashrate": 282113963890986,
+    "block_time": 13.33
+}, {
+    "timestamp": 1764883800,
+    "difficulty": 3766123730835256,
+    "hashrate": 286397241888613,
+    "block_time": 13.15
+}, {
+    "timestamp": 1764883200,
+    "difficulty": 3786443840979466,
+    "hashrate": 289262325514092,
+    "block_time": 13.09
+}, {
+    "timestamp": 1764882600,
+    "difficulty": 3792028378857423,
+    "hashrate": 288586634616242,
+    "block_time": 13.14
+}, {
+    "timestamp": 1764882000,
+    "difficulty": 3788365898073709,
+    "hashrate": 286997416520736,
+    "block_time": 13.2
+}, {
+    "timestamp": 1764881400,
+    "difficulty": 3792108004193498,
+    "hashrate": 288154103662120,
+    "block_time": 13.16
+}, {
+    "timestamp": 1764880800,
+    "difficulty": 3788459043760625,
+    "hashrate": 288754500286633,
+    "block_time": 13.12
+}, {
+    "timestamp": 1764880200,
+    "difficulty": 3792201238336164,
+    "hashrate": 289039728531720,
+    "block_time": 13.12
+}, {
+    "timestamp": 1764879600,
+    "difficulty": 3799675003561201,
+    "hashrate": 289830282498947,
+    "block_time": 13.11
+}, {
+    "timestamp": 1764879000,
+    "difficulty": 3803420102552667,
+    "hashrate": 290781353406167,
+    "block_time": 13.08
+}, {
+    "timestamp": 1764878400,
+    "difficulty": 3837038057940134,
+    "hashrate": 296067751384270,
+    "block_time": 12.96
+}, {
+    "timestamp": 1764877800,
+    "difficulty": 3844563436821596,
+    "hashrate": 297797322759225,
+    "block_time": 12.91
+}, {
+    "timestamp": 1764877200,
+    "difficulty": 3801661814562001,
+    "hashrate": 293791484896600,
+    "block_time": 12.94
+}, {
+    "timestamp": 1764876600,
+    "difficulty": 3775792228833483,
+    "hashrate": 291792289708925,
+    "block_time": 12.94
+}, {
+    "timestamp": 1764876000,
+    "difficulty": 3764794146312471,
+    "hashrate": 290942360611474,
+    "block_time": 12.94
+}, {
+    "timestamp": 1764875400,
+    "difficulty": 3772223810227405,
+    "hashrate": 290842236717610,
+    "block_time": 12.97
+}, {
+    "timestamp": 1764874800,
+    "difficulty": 3787015883486866,
+    "hashrate": 292885992535721,
+    "block_time": 12.93
+}, {
+    "timestamp": 1764874200,
+    "difficulty": 3759405825027001,
+    "hashrate": 289185063463615,
+    "block_time": 13
+}, {
+    "timestamp": 1764873600,
+    "difficulty": 3737476341866080,
+    "hashrate": 285739781488232,
+    "block_time": 13.08
+}, {
+    "timestamp": 1764873000,
+    "difficulty": 3708414060198475,
+    "hashrate": 282438237638879,
+    "block_time": 13.13
+}, {
+    "timestamp": 1764872400,
+    "difficulty": 3701228480099707,
+    "hashrate": 282752366699748,
+    "block_time": 13.09
+}, {
+    "timestamp": 1764871800,
+    "difficulty": 3650999691604124,
+    "hashrate": 275339343258230,
+    "block_time": 13.26
+}, {
+    "timestamp": 1764871200,
+    "difficulty": 3651043272265902,
+    "hashrate": 275135137322223,
+    "block_time": 13.27
+}, {
+    "timestamp": 1764870600,
+    "difficulty": 3670738087684039,
+    "hashrate": 277246079130214,
+    "block_time": 13.24
+}, {
+    "timestamp": 1764870000,
+    "difficulty": 3677967177094450,
+    "hashrate": 278422950574902,
+    "block_time": 13.21
+}, {
+    "timestamp": 1764869400,
+    "difficulty": 3665451994310623,
+    "hashrate": 275390833531978,
+    "block_time": 13.31
+}, {
+    "timestamp": 1764868800,
+    "difficulty": 3631628267012864,
+    "hashrate": 270814934154576,
+    "block_time": 13.41
+}, {
+    "timestamp": 1764868200,
+    "difficulty": 3649432913560619,
+    "hashrate": 272956837214706,
+    "block_time": 13.37
+}, {
+    "timestamp": 1764867600,
+    "difficulty": 3631687168840635,
+    "hashrate": 270819326535469,
+    "block_time": 13.41
+}, {
+    "timestamp": 1764867000,
+    "difficulty": 3629949387578133,
+    "hashrate": 269884712831088,
+    "block_time": 13.45
+}, {
+    "timestamp": 1764866400,
+    "difficulty": 3615849330340536,
+    "hashrate": 267840691136336,
+    "block_time": 13.5
+}, {
+    "timestamp": 1764865800,
+    "difficulty": 3617671059203589,
+    "hashrate": 268174281631104,
+    "block_time": 13.49
+}, {
+    "timestamp": 1764865200,
+    "difficulty": 3607114603085854,
+    "hashrate": 267193674302656,
+    "block_time": 13.5
+}, {
+    "timestamp": 1764864600,
+    "difficulty": 3589567778918295,
+    "hashrate": 265304344339859,
+    "block_time": 13.53
+}, {
+    "timestamp": 1764864000,
+    "difficulty": 3605428187035284,
+    "hashrate": 267464999038226,
+    "block_time": 13.48
+}, {
+    "timestamp": 1764863400,
+    "difficulty": 3623121712224791,
+    "hashrate": 269778236204378,
+    "block_time": 13.43
+}, {
+    "timestamp": 1764862800,
+    "difficulty": 3624924538785583,
+    "hashrate": 268115720324377,
+    "block_time": 13.52
+}, {
+    "timestamp": 1764862200,
+    "difficulty": 3612582953558961,
+    "hashrate": 265826560232447,
+    "block_time": 13.59
+}, {
+    "timestamp": 1764861600,
+    "difficulty": 3624992016000991,
+    "hashrate": 268120711242677,
+    "block_time": 13.52
+}, {
+    "timestamp": 1764861000,
+    "difficulty": 3602080888903268,
+    "hashrate": 264858888889946,
+    "block_time": 13.6
+}, {
+    "timestamp": 1764860400,
+    "difficulty": 3619755377147123,
+    "hashrate": 266746895884092,
+    "block_time": 13.57
+}, {
+    "timestamp": 1764859800,
+    "difficulty": 3603921405886449,
+    "hashrate": 264023546218787,
+    "block_time": 13.65
+}, {
+    "timestamp": 1764859200,
+    "difficulty": 3623364629460240,
+    "hashrate": 265447958202215,
+    "block_time": 13.65
+}, {
+    "timestamp": 1764858600,
+    "difficulty": 3641157487388658,
+    "hashrate": 266751464277557,
+    "block_time": 13.65
+}, {
+    "timestamp": 1764858000,
+    "difficulty": 3651898134655495,
+    "hashrate": 268324624148089,
+    "block_time": 13.61
+}, {
+    "timestamp": 1764857400,
+    "difficulty": 3607619101951654,
+    "hashrate": 262754486668001,
+    "block_time": 13.73
+}, {
+    "timestamp": 1764856800,
+    "difficulty": 3611174898551733,
+    "hashrate": 263589408653411,
+    "block_time": 13.7
+}, {
+    "timestamp": 1764856200,
+    "difficulty": 3621795082691085,
+    "hashrate": 263979233432295,
+    "block_time": 13.72
+}, {
+    "timestamp": 1764855600,
+    "difficulty": 3639575010583400,
+    "hashrate": 266831012506114,
+    "block_time": 13.64
+}, {
+    "timestamp": 1764855000,
+    "difficulty": 3620103514949686,
+    "hashrate": 262897858747254,
+    "block_time": 13.77
+}, {
+    "timestamp": 1764854400,
+    "difficulty": 3623676809638013,
+    "hashrate": 264501956907884,
+    "block_time": 13.7
+}, {
+    "timestamp": 1764853800,
+    "difficulty": 3609587331047801,
+    "hashrate": 263281351644624,
+    "block_time": 13.71
+}, {
+    "timestamp": 1764853200,
+    "difficulty": 3613151967568392,
+    "hashrate": 263349268773206,
+    "block_time": 13.72
+}, {
+    "timestamp": 1764852600,
+    "difficulty": 3602608687350241,
+    "hashrate": 261437495453573,
+    "block_time": 13.78
+}, {
+    "timestamp": 1764852000,
+    "difficulty": 3565893624062731,
+    "hashrate": 255986620535731,
+    "block_time": 13.93
+}, {
+    "timestamp": 1764851400,
+    "difficulty": 3541636856473037,
+    "hashrate": 252433133034429,
+    "block_time": 14.03
+}, {
+    "timestamp": 1764850800,
+    "difficulty": 3512392440075045,
+    "hashrate": 249459690346239,
+    "block_time": 14.08
+}, {
+    "timestamp": 1764850200,
+    "difficulty": 3515851023305650,
+    "hashrate": 249174416960004,
+    "block_time": 14.11
+}, {
+    "timestamp": 1764849600,
+    "difficulty": 3502169909790302,
+    "hashrate": 246458121730493,
+    "block_time": 14.21
+}, {
+    "timestamp": 1764849000,
+    "difficulty": 3517621444641805,
+    "hashrate": 248419593548150,
+    "block_time": 14.16
+}, {
+    "timestamp": 1764848400,
+    "difficulty": 3522812024809428,
+    "hashrate": 248786159944169,
+    "block_time": 14.16
+}, {
+    "timestamp": 1764847800,
+    "difficulty": 3534905956879531,
+    "hashrate": 249112470534146,
+    "block_time": 14.19
+}, {
+    "timestamp": 1764847200,
+    "difficulty": 3526327142219115,
+    "hashrate": 248507902904800,
+    "block_time": 14.19
+}, {
+    "timestamp": 1764846600,
+    "difficulty": 3512605260876040,
+    "hashrate": 247018654070045,
+    "block_time": 14.22
+}, {
+    "timestamp": 1764846000,
+    "difficulty": 3498939285016035,
+    "hashrate": 245195464962581,
+    "block_time": 14.27
+}, {
+    "timestamp": 1764845400,
+    "difficulty": 3521273380840736,
+    "hashrate": 247802489855083,
+    "block_time": 14.21
+}, {
+    "timestamp": 1764844800,
+    "difficulty": 3529941843716332,
+    "hashrate": 249113750438697,
+    "block_time": 14.17
+}, {
+    "timestamp": 1764844200,
+    "difficulty": 3523093657835891,
+    "hashrate": 247756234728262,
+    "block_time": 14.22
+}, {
+    "timestamp": 1764843600,
+    "difficulty": 3516253725949476,
+    "hashrate": 246754647435051,
+    "block_time": 14.25
+}, {
+    "timestamp": 1764843000,
+    "difficulty": 3549078249096196,
+    "hashrate": 249408169296992,
+    "block_time": 14.23
+}, {
+    "timestamp": 1764842400,
+    "difficulty": 3561274262617344,
+    "hashrate": 251147691298825,
+    "block_time": 14.18
+}, {
+    "timestamp": 1764841800,
+    "difficulty": 3561313346808199,
+    "hashrate": 251682922035915,
+    "block_time": 14.15
+}, {
+    "timestamp": 1764841200,
+    "difficulty": 3570064162099194,
+    "hashrate": 251590145320592,
+    "block_time": 14.19
+}, {
+    "timestamp": 1764840600,
+    "difficulty": 3568347352662590,
+    "hashrate": 252001931685211,
+    "block_time": 14.16
+}, {
+    "timestamp": 1764840000,
+    "difficulty": 3571868719652138,
+    "hashrate": 253144487572795,
+    "block_time": 14.11
+}, {
+    "timestamp": 1764839400,
+    "difficulty": 3571903671253738,
+    "hashrate": 251719779510482,
+    "block_time": 14.19
+}, {
+    "timestamp": 1764838800,
+    "difficulty": 3582418621167994,
+    "hashrate": 251928173077918,
+    "block_time": 14.22
+}, {
+    "timestamp": 1764838200,
+    "difficulty": 3587709094188373,
+    "hashrate": 250363509713076,
+    "block_time": 14.33
+}, {
+    "timestamp": 1764837600,
+    "difficulty": 3591245271813135,
+    "hashrate": 249392032764801,
+    "block_time": 14.4
+}, {
+    "timestamp": 1764837000,
+    "difficulty": 3584268742062424,
+    "hashrate": 248390072214998,
+    "block_time": 14.43
+}, {
+    "timestamp": 1764836400,
+    "difficulty": 3584314070610579,
+    "hashrate": 248565469529166,
+    "block_time": 14.42
+}, {
+    "timestamp": 1764835800,
+    "difficulty": 3617814703483005,
+    "hashrate": 252817239935919,
+    "block_time": 14.31
+}, {
+    "timestamp": 1764835200,
+    "difficulty": 3630248657482602,
+    "hashrate": 253686139586485,
+    "block_time": 14.31
+}, {
+    "timestamp": 1764834600,
+    "difficulty": 3612602235796417,
+    "hashrate": 252806314611366,
+    "block_time": 14.29
+}, {
+    "timestamp": 1764834000,
+    "difficulty": 3619697807620605,
+    "hashrate": 253302855676739,
+    "block_time": 14.29
+}, {
+    "timestamp": 1764833400,
+    "difficulty": 3605616032128861,
+    "hashrate": 251964782119417,
+    "block_time": 14.31
+}, {
+    "timestamp": 1764832800,
+    "difficulty": 3626847111779450,
+    "hashrate": 254158872584404,
+    "block_time": 14.27
+}, {
+    "timestamp": 1764832200,
+    "difficulty": 3642860035682952,
+    "hashrate": 256539439132602,
+    "block_time": 14.2
+}, {
+    "timestamp": 1764831600,
+    "difficulty": 3650007197618315,
+    "hashrate": 258316149866831,
+    "block_time": 14.13
+}, {
+    "timestamp": 1764831000,
+    "difficulty": 3653665939551930,
+    "hashrate": 256938533020530,
+    "block_time": 14.22
+}, {
+    "timestamp": 1764830400,
+    "difficulty": 3669791132299713,
+    "hashrate": 259532611902384,
+    "block_time": 14.14
+}, {
+    "timestamp": 1764829800,
+    "difficulty": 3659087814305708,
+    "hashrate": 257319818164958,
+    "block_time": 14.22
+}, {
+    "timestamp": 1764829200,
+    "difficulty": 3655552857453042,
+    "hashrate": 256530025084424,
+    "block_time": 14.25
+}, {
+    "timestamp": 1764828600,
+    "difficulty": 3657379684640156,
+    "hashrate": 256478238754569,
+    "block_time": 14.26
+}, {
+    "timestamp": 1764828000,
+    "difficulty": 3673556406886090,
+    "hashrate": 258701155414513,
+    "block_time": 14.2
+}, {
+    "timestamp": 1764827400,
+    "difficulty": 3695170783495429,
+    "hashrate": 262068849893293,
+    "block_time": 14.1
+}, {
+    "timestamp": 1764826800,
+    "difficulty": 3673606351752570,
+    "hashrate": 259802429402586,
+    "block_time": 14.14
+}, {
+    "timestamp": 1764826200,
+    "difficulty": 3657535076705898,
+    "hashrate": 257936183124534,
+    "block_time": 14.18
+}, {
+    "timestamp": 1764825600,
+    "difficulty": 3671895825234615,
+    "hashrate": 260788055769504,
+    "block_time": 14.08
+}, {
+    "timestamp": 1764825000,
+    "difficulty": 3673710643502321,
+    "hashrate": 261846802815561,
+    "block_time": 14.03
+}, {
+    "timestamp": 1764824400,
+    "difficulty": 3700786756618085,
+    "hashrate": 265670262499504,
+    "block_time": 13.93
+}, {
+    "timestamp": 1764823800,
+    "difficulty": 3708059964719305,
+    "hashrate": 265430205062227,
+    "block_time": 13.97
+}, {
+    "timestamp": 1764823200,
+    "difficulty": 3722616429704183,
+    "hashrate": 267237360352059,
+    "block_time": 13.93
+}, {
+    "timestamp": 1764822600,
+    "difficulty": 3704515705801158,
+    "hashrate": 264986817296220,
+    "block_time": 13.98
+}, {
+    "timestamp": 1764822000,
+    "difficulty": 3709987369678212,
+    "hashrate": 265568172489493,
+    "block_time": 13.97
+}, {
+    "timestamp": 1764821400,
+    "difficulty": 3740977002783415,
+    "hashrate": 268555420156742,
+    "block_time": 13.93
+}, {
+    "timestamp": 1764820800,
+    "difficulty": 3746504318755088,
+    "hashrate": 270310556908737,
+    "block_time": 13.86
+}, {
+    "timestamp": 1764820200,
+    "difficulty": 3742879550570647,
+    "hashrate": 270830647653448,
+    "block_time": 13.82
+}, {
+    "timestamp": 1764819600,
+    "difficulty": 3752064852522018,
+    "hashrate": 272085921140103,
+    "block_time": 13.79
+}, {
+    "timestamp": 1764819000,
+    "difficulty": 3774163688671773,
+    "hashrate": 274884463850821,
+    "block_time": 13.73
+}, {
+    "timestamp": 1764818400,
+    "difficulty": 3759485485704336,
+    "hashrate": 273020006223990,
+    "block_time": 13.77
+}, {
+    "timestamp": 1764817800,
+    "difficulty": 3761356160156101,
+    "hashrate": 274151323626538,
+    "block_time": 13.72
+}, {
+    "timestamp": 1764817200,
+    "difficulty": 3783516959521584,
+    "hashrate": 275766542239183,
+    "block_time": 13.72
+}, {
+    "timestamp": 1764816600,
+    "difficulty": 3776168716591526,
+    "hashrate": 275030496474255,
+    "block_time": 13.73
+}, {
+    "timestamp": 1764816000,
+    "difficulty": 3794699235512378,
+    "hashrate": 276581576932389,
+    "block_time": 13.72
+}, {
+    "timestamp": 1764815400,
+    "difficulty": 3774412257085533,
+    "hashrate": 274702493237666,
+    "block_time": 13.74
+}, {
+    "timestamp": 1764814800,
+    "difficulty": 3802201459380787,
+    "hashrate": 278549557463794,
+    "block_time": 13.65
+}, {
+    "timestamp": 1764814200,
+    "difficulty": 3800373924321195,
+    "hashrate": 277805111426988,
+    "block_time": 13.68
+}, {
+    "timestamp": 1764813600,
+    "difficulty": 3804123356079049,
+    "hashrate": 278894674199344,
+    "block_time": 13.64
+}, {
+    "timestamp": 1764813000,
+    "difficulty": 3806015342366466,
+    "hashrate": 278828962810730,
+    "block_time": 13.65
+}, {
+    "timestamp": 1764812400,
+    "difficulty": 3794931939779300,
+    "hashrate": 278016991925223,
+    "block_time": 13.65
+}, {
+    "timestamp": 1764811800,
+    "difficulty": 3787569663052762,
+    "hashrate": 277681060341112,
+    "block_time": 13.64
+}, {
+    "timestamp": 1764811200,
+    "difficulty": 3809897633955014,
+    "hashrate": 280965902209072,
+    "block_time": 13.56
+}, {
+    "timestamp": 1764810600,
+    "difficulty": 3845464286855962,
+    "hashrate": 285908125416800,
+    "block_time": 13.45
+}, {
+    "timestamp": 1764810000,
+    "difficulty": 3870003797642731,
+    "hashrate": 290759113271430,
+    "block_time": 13.31
+}, {
+    "timestamp": 1764809400,
+    "difficulty": 3883303562059683,
+    "hashrate": 291539306460937,
+    "block_time": 13.32
+}, {
+    "timestamp": 1764808800,
+    "difficulty": 3915717492175744,
+    "hashrate": 295302978293797,
+    "block_time": 13.26
+}, {
+    "timestamp": 1764808200,
+    "difficulty": 3915756729207371,
+    "hashrate": 295305937345956,
+    "block_time": 13.26
+}, {
+    "timestamp": 1764807600,
+    "difficulty": 3904332305964851,
+    "hashrate": 293558819997357,
+    "block_time": 13.3
+}, {
+    "timestamp": 1764807000,
+    "difficulty": 3894853218420727,
+    "hashrate": 293066457368001,
+    "block_time": 13.29
+}, {
+    "timestamp": 1764806400,
+    "difficulty": 3902520905140071,
+    "hashrate": 295198253036314,
+    "block_time": 13.22
+}, {
+    "timestamp": 1764805800,
+    "difficulty": 3872190051836414,
+    "hashrate": 289401349165651,
+    "block_time": 13.38
+}, {
+    "timestamp": 1764805200,
+    "difficulty": 3889288037842150,
+    "hashrate": 290462138748480,
+    "block_time": 13.39
+}, {
+    "timestamp": 1764804600,
+    "difficulty": 3876045461622268,
+    "hashrate": 286477861169421,
+    "block_time": 13.53
+}, {
+    "timestamp": 1764804000,
+    "difficulty": 3885569651853283,
+    "hashrate": 287606932039473,
+    "block_time": 13.51
+}, {
+    "timestamp": 1764803400,
+    "difficulty": 3857255795349235,
+    "hashrate": 284668324380017,
+    "block_time": 13.55
+}, {
+    "timestamp": 1764802800,
+    "difficulty": 3897080593051017,
+    "hashrate": 288672636522298,
+    "block_time": 13.5
+}, {
+    "timestamp": 1764802200,
+    "difficulty": 3876249052416080,
+    "hashrate": 286917028306150,
+    "block_time": 13.51
+}, {
+    "timestamp": 1764801600,
+    "difficulty": 3872512644274425,
+    "hashrate": 286852788464772,
+    "block_time": 13.5
+}, {
+    "timestamp": 1764801000,
+    "difficulty": 3901057687976242,
+    "hashrate": 289610815736915,
+    "block_time": 13.47
+}, {
+    "timestamp": 1764800400,
+    "difficulty": 3914449221414234,
+    "hashrate": 290174145397645,
+    "block_time": 13.49
+}, {
+    "timestamp": 1764799800,
+    "difficulty": 3906880321463257,
+    "hashrate": 290258567716438,
+    "block_time": 13.46
+}, {
+    "timestamp": 1764799200,
+    "difficulty": 3884090580943058,
+    "hashrate": 286437358476627,
+    "block_time": 13.56
+}, {
+    "timestamp": 1764798600,
+    "difficulty": 3853897434760248,
+    "hashrate": 283374811379430,
+    "block_time": 13.6
+}, {
+    "timestamp": 1764798000,
+    "difficulty": 3852047806235686,
+    "hashrate": 284493929559504,
+    "block_time": 13.54
+}, {
+    "timestamp": 1764797400,
+    "difficulty": 3850215627349293,
+    "hashrate": 282896078423901,
+    "block_time": 13.61
+}, {
+    "timestamp": 1764796800,
+    "difficulty": 3814694234368810,
+    "hashrate": 278648227492243,
+    "block_time": 13.69
+}, {
+    "timestamp": 1764796200,
+    "difficulty": 3833396398658843,
+    "hashrate": 281040791690531,
+    "block_time": 13.64
+}, {
+    "timestamp": 1764795600,
+    "difficulty": 3852208636476168,
+    "hashrate": 283876833933395,
+    "block_time": 13.57
+}, {
+    "timestamp": 1764795000,
+    "difficulty": 3822267882461700,
+    "hashrate": 280842607087561,
+    "block_time": 13.61
+}, {
+    "timestamp": 1764794400,
+    "difficulty": 3837269943327528,
+    "hashrate": 282984509094950,
+    "block_time": 13.56
+}, {
+    "timestamp": 1764793800,
+    "difficulty": 3854217414978193,
+    "hashrate": 286346018943402,
+    "block_time": 13.46
+}, {
+    "timestamp": 1764793200,
+    "difficulty": 3827986550409139,
+    "hashrate": 282508232502519,
+    "block_time": 13.55
+}, {
+    "timestamp": 1764792600,
+    "difficulty": 3814962709131538,
+    "hashrate": 278058506496468,
+    "block_time": 13.72
+}, {
+    "timestamp": 1764792000,
+    "difficulty": 3820592048657371,
+    "hashrate": 279079039346777,
+    "block_time": 13.69
+}, {
+    "timestamp": 1764791400,
+    "difficulty": 3816898336389737,
+    "hashrate": 280036561730722,
+    "block_time": 13.63
+}, {
+    "timestamp": 1764790800,
+    "difficulty": 3803919496007337,
+    "hashrate": 279494452315014,
+    "block_time": 13.61
+}, {
+    "timestamp": 1764790200,
+    "difficulty": 3783564259189882,
+    "hashrate": 276576334736103,
+    "block_time": 13.68
+}, {
+    "timestamp": 1764789600,
+    "difficulty": 3818882344509540,
+    "hashrate": 282044486300557,
+    "block_time": 13.54
+}, {
+    "timestamp": 1764789000,
+    "difficulty": 3818930638323798,
+    "hashrate": 282256514288529,
+    "block_time": 13.53
+}, {
+    "timestamp": 1764788400,
+    "difficulty": 3815235798970058,
+    "hashrate": 283449910770435,
+    "block_time": 13.46
+}, {
+    "timestamp": 1764787800,
+    "difficulty": 3807831422831083,
+    "hashrate": 283110142961419,
+    "block_time": 13.45
+}, {
+    "timestamp": 1764787200,
+    "difficulty": 3791165696253642,
+    "hashrate": 281661641623599,
+    "block_time": 13.46
+}, {
+    "timestamp": 1764786600,
+    "difficulty": 3785649256334454,
+    "hashrate": 282090108519706,
+    "block_time": 13.42
+}, {
+    "timestamp": 1764786000,
+    "difficulty": 3794934990826738,
+    "hashrate": 282992915050465,
+    "block_time": 13.41
+}, {
+    "timestamp": 1764785400,
+    "difficulty": 3787572710841570,
+    "hashrate": 282023284500489,
+    "block_time": 13.43
+}, {
+    "timestamp": 1764784800,
+    "difficulty": 3763640309207637,
+    "hashrate": 279824558305401,
+    "block_time": 13.45
+}, {
+    "timestamp": 1764784200,
+    "difficulty": 3780264399311824,
+    "hashrate": 281479106426793,
+    "block_time": 13.43
+}, {
+    "timestamp": 1764783600,
+    "difficulty": 3738079406336233,
+    "hashrate": 277305593941857,
+    "block_time": 13.48
+}, {
+    "timestamp": 1764783000,
+    "difficulty": 3738123115997400,
+    "hashrate": 276284044050067,
+    "block_time": 13.53
+}, {
+    "timestamp": 1764782400,
+    "difficulty": 3740014439597308,
+    "hashrate": 277655118010194,
+    "block_time": 13.47
+}, {
+    "timestamp": 1764781800,
+    "difficulty": 3736401314566429,
+    "hashrate": 276361043976807,
+    "block_time": 13.52
+}, {
+    "timestamp": 1764781200,
+    "difficulty": 3756575418343206,
+    "hashrate": 279715221023321,
+    "block_time": 13.43
+}, {
+    "timestamp": 1764780600,
+    "difficulty": 3734661549959611,
+    "hashrate": 277670003714469,
+    "block_time": 13.45
+}, {
+    "timestamp": 1764780000,
+    "difficulty": 3716501371320603,
+    "hashrate": 276525399651831,
+    "block_time": 13.44
+}, {
+    "timestamp": 1764779400,
+    "difficulty": 3734739064570056,
+    "hashrate": 280596473671680,
+    "block_time": 13.31
+}, {
+    "timestamp": 1764778800,
+    "difficulty": 3747560553667227,
+    "hashrate": 282408481813657,
+    "block_time": 13.27
+}, {
+    "timestamp": 1764778200,
+    "difficulty": 3782576890860776,
+    "hashrate": 287867343292297,
+    "block_time": 13.14
+}, {
+    "timestamp": 1764777600,
+    "difficulty": 3816038001844694,
+    "hashrate": 291746024605863,
+    "block_time": 13.08
+}, {
+    "timestamp": 1764777000,
+    "difficulty": 3816080789174411,
+    "hashrate": 292419983844782,
+    "block_time": 13.05
+}, {
+    "timestamp": 1764776400,
+    "difficulty": 3814248402652238,
+    "hashrate": 292953026317376,
+    "block_time": 13.02
+}, {
+    "timestamp": 1764775800,
+    "difficulty": 3829213494835568,
+    "hashrate": 295464004231140,
+    "block_time": 12.96
+}, {
+    "timestamp": 1764775200,
+    "difficulty": 3829240895212687,
+    "hashrate": 294556991939437,
+    "block_time": 13
+}, {
+    "timestamp": 1764774600,
+    "difficulty": 3823669047578583,
+    "hashrate": 296178857287264,
+    "block_time": 12.91
+}, {
+    "timestamp": 1764774000,
+    "difficulty": 3834921483042360,
+    "hashrate": 297742351167885,
+    "block_time": 12.88
+}, {
+    "timestamp": 1764773400,
+    "difficulty": 3850006327487903,
+    "hashrate": 298913534742850,
+    "block_time": 12.88
+}, {
+    "timestamp": 1764772800,
+    "difficulty": 3833147785478181,
+    "hashrate": 297373761480076,
+    "block_time": 12.89
+}, {
+    "timestamp": 1764772200,
+    "difficulty": 3853822172236360,
+    "hashrate": 298745904824524,
+    "block_time": 12.9
+}, {
+    "timestamp": 1764771600,
+    "difficulty": 3859506086649118,
+    "hashrate": 301759662755991,
+    "block_time": 12.79
+}, {
+    "timestamp": 1764771000,
+    "difficulty": 3836995435478417,
+    "hashrate": 299297615871951,
+    "block_time": 12.82
+}, {
+    "timestamp": 1764770400,
+    "difficulty": 3840773647054805,
+    "hashrate": 301001069518402,
+    "block_time": 12.76
+}, {
+    "timestamp": 1764769800,
+    "difficulty": 3859612888177937,
+    "hashrate": 303190329000624,
+    "block_time": 12.73
+}, {
+    "timestamp": 1764769200,
+    "difficulty": 3865326597834421,
+    "hashrate": 303877877188241,
+    "block_time": 12.72
+}, {
+    "timestamp": 1764768600,
+    "difficulty": 3857830515489088,
+    "hashrate": 303050315435121,
+    "block_time": 12.73
+}, {
+    "timestamp": 1764768000,
+    "difficulty": 3837195948184000,
+    "hashrate": 300250074192801,
+    "block_time": 12.78
+}, {
+    "timestamp": 1764767400,
+    "difficulty": 3839144763031144,
+    "hashrate": 301819556842071,
+    "block_time": 12.72
+}, {
+    "timestamp": 1764766800,
+    "difficulty": 3813016479258490,
+    "hashrate": 299060116020274,
+    "block_time": 12.75
+}, {
+    "timestamp": 1764766200,
+    "difficulty": 3826113996058719,
+    "hashrate": 301031785685186,
+    "block_time": 12.71
+}, {
+    "timestamp": 1764765600,
+    "difficulty": 3859950062242939,
+    "hashrate": 306345243035154,
+    "block_time": 12.6
+}, {
+    "timestamp": 1764765000,
+    "difficulty": 3871324986628943,
+    "hashrate": 305550511967557,
+    "block_time": 12.67
+}, {
+    "timestamp": 1764764400,
+    "difficulty": 3850632056638865,
+    "hashrate": 302722645962175,
+    "block_time": 12.72
+}, {
+    "timestamp": 1764763800,
+    "difficulty": 3807661809279467,
+    "hashrate": 287805125417949,
+    "block_time": 13.23
+}, {
+    "timestamp": 1764763200,
+    "difficulty": 3828210609622930,
+    "hashrate": 285900717671615,
+    "block_time": 13.39
+}, {
+    "timestamp": 1764762600,
+    "difficulty": 3818904484288007,
+    "hashrate": 284992871961792,
+    "block_time": 13.4
+}, {
+    "timestamp": 1764762000,
+    "difficulty": 3813344953873084,
+    "hashrate": 283731023353652,
+    "block_time": 13.44
+}, {
+    "timestamp": 1764761400,
+    "difficulty": 3770793508406550,
+    "hashrate": 278492873589849,
+    "block_time": 13.54
+}, {
+    "timestamp": 1764760800,
+    "difficulty": 3745134872906942,
+    "hashrate": 274570005345084,
+    "block_time": 13.64
+}, {
+    "timestamp": 1764760200,
+    "difficulty": 3741521254407845,
+    "hashrate": 274707874772970,
+    "block_time": 13.62
+}, {
+    "timestamp": 1764759600,
+    "difficulty": 3737912024284832,
+    "hashrate": 274644527868099,
+    "block_time": 13.61
+}, {
+    "timestamp": 1764759000,
+    "difficulty": 3743419626092796,
+    "hashrate": 275251443095059,
+    "block_time": 13.6
+}, {
+    "timestamp": 1764758400,
+    "difficulty": 3737988720392706,
+    "hashrate": 274448511042049,
+    "block_time": 13.62
+}, {
+    "timestamp": 1764757800,
+    "difficulty": 3730735135333500,
+    "hashrate": 274925212625903,
+    "block_time": 13.57
+}, {
+    "timestamp": 1764757200,
+    "difficulty": 3723476073715729,
+    "hashrate": 273583840831428,
+    "block_time": 13.61
+}, {
+    "timestamp": 1764756600,
+    "difficulty": 3718052802655199,
+    "hashrate": 270995102234344,
+    "block_time": 13.72
+}, {
+    "timestamp": 1764756000,
+    "difficulty": 3730842842757310,
+    "hashrate": 272722430026119,
+    "block_time": 13.68
+}, {
+    "timestamp": 1764755400,
+    "difficulty": 3721781409339016,
+    "hashrate": 270872009413320,
+    "block_time": 13.74
+}, {
+    "timestamp": 1764754800,
+    "difficulty": 3734580757911950,
+    "hashrate": 272199763696206,
+    "block_time": 13.72
+}, {
+    "timestamp": 1764754200,
+    "difficulty": 3734606589858562,
+    "hashrate": 272003393289043,
+    "block_time": 13.73
+}, {
+    "timestamp": 1764753600,
+    "difficulty": 3725549350840425,
+    "hashrate": 270555508412522,
+    "block_time": 13.77
+}, {
+    "timestamp": 1764753000,
+    "difficulty": 3696585100394782,
+    "hashrate": 267287425914301,
+    "block_time": 13.83
+}, {
+    "timestamp": 1764752400,
+    "difficulty": 3666062964306953,
+    "hashrate": 263177527947376,
+    "block_time": 13.93
+}, {
+    "timestamp": 1764751800,
+    "difficulty": 3651811281094428,
+    "hashrate": 262531364564661,
+    "block_time": 13.91
+}, {
+    "timestamp": 1764751200,
+    "difficulty": 3662562331532797,
+    "hashrate": 261798594105275,
+    "block_time": 13.99
+}, {
+    "timestamp": 1764750600,
+    "difficulty": 3642971340432995,
+    "hashrate": 259286216400925,
+    "block_time": 14.05
+}, {
+    "timestamp": 1764750000,
+    "difficulty": 3625263072851284,
+    "hashrate": 257293333772270,
+    "block_time": 14.09
+}, {
+    "timestamp": 1764749400,
+    "difficulty": 3632398264208615,
+    "hashrate": 257434320638456,
+    "block_time": 14.11
+}, {
+    "timestamp": 1764748800,
+    "difficulty": 3600640250578122,
+    "hashrate": 254462208521422,
+    "block_time": 14.15
+}, {
+    "timestamp": 1764748200,
+    "difficulty": 3595409622964617,
+    "hashrate": 254993590281179,
+    "block_time": 14.1
+}, {
+    "timestamp": 1764747600,
+    "difficulty": 3616576279045505,
+    "hashrate": 257774503139380,
+    "block_time": 14.03
+}, {
+    "timestamp": 1764747000,
+    "difficulty": 3588466099136596,
+    "hashrate": 254681767149510,
+    "block_time": 14.09
+}, {
+    "timestamp": 1764746400,
+    "difficulty": 3614893172442152,
+    "hashrate": 258022353493373,
+    "block_time": 14.01
+}, {
+    "timestamp": 1764745800,
+    "difficulty": 3567580558315414,
+    "hashrate": 252661512628570,
+    "block_time": 14.12
+}, {
+    "timestamp": 1764745200,
+    "difficulty": 3565893066342256,
+    "hashrate": 253079706624717,
+    "block_time": 14.09
+}, {
+    "timestamp": 1764744600,
+    "difficulty": 3558962388793925,
+    "hashrate": 251694652672838,
+    "block_time": 14.14
+}, {
+    "timestamp": 1764744000,
+    "difficulty": 3533014159685285,
+    "hashrate": 250390797993287,
+    "block_time": 14.11
+}, {
+    "timestamp": 1764743400,
+    "difficulty": 3529590048260360,
+    "hashrate": 250681111382128,
+    "block_time": 14.08
+}, {
+    "timestamp": 1764742800,
+    "difficulty": 3521009849647932,
+    "hashrate": 249540031867323,
+    "block_time": 14.11
+}, {
+    "timestamp": 1764742200,
+    "difficulty": 3514173957646087,
+    "hashrate": 248176126952407,
+    "block_time": 14.16
+}, {
+    "timestamp": 1764741600,
+    "difficulty": 3509072300328580,
+    "hashrate": 248517868295225,
+    "block_time": 14.12
+}, {
+    "timestamp": 1764741000,
+    "difficulty": 3492031617215461,
+    "hashrate": 247661816823792,
+    "block_time": 14.1
+}, {
+    "timestamp": 1764740400,
+    "difficulty": 3473353618038632,
+    "hashrate": 246162552660428,
+    "block_time": 14.11
+}, {
+    "timestamp": 1764739800,
+    "difficulty": 3488726356163615,
+    "hashrate": 247427401146356,
+    "block_time": 14.1
+}, {
+    "timestamp": 1764739200,
+    "difficulty": 3495584473150755,
+    "hashrate": 248619094818688,
+    "block_time": 14.06
+}, {
+    "timestamp": 1764738600,
+    "difficulty": 3500758420064014,
+    "hashrate": 249164300360428,
+    "block_time": 14.05
+}, {
+    "timestamp": 1764738000,
+    "difficulty": 3578638843330517,
+    "hashrate": 258759135454123,
+    "block_time": 13.83
+}, {
+    "timestamp": 1764737400,
+    "difficulty": 3670991666418514,
+    "hashrate": 270124478765159,
+    "block_time": 13.59
+}, {
+    "timestamp": 1764736800,
+    "difficulty": 3750916868150821,
+    "hashrate": 280128220175565,
+    "block_time": 13.39
+}, {
+    "timestamp": 1764736200,
+    "difficulty": 3736329964096619,
+    "hashrate": 278415049485590,
+    "block_time": 13.42
+}, {
+    "timestamp": 1764735600,
+    "difficulty": 3714531532318504,
+    "hashrate": 274540394110754,
+    "block_time": 13.53
+}, {
+    "timestamp": 1764735000,
+    "difficulty": 3741885224600248,
+    "hashrate": 277587924673609,
+    "block_time": 13.48
+}, {
+    "timestamp": 1764734400,
+    "difficulty": 3762091626974480,
+    "hashrate": 280125958821629,
+    "block_time": 13.43
+}, {
+    "timestamp": 1764733800,
+    "difficulty": 3736496662659779,
+    "hashrate": 276163833160368,
+    "block_time": 13.53
+}, {
+    "timestamp": 1764733200,
+    "difficulty": 3754814552682409,
+    "hashrate": 276699672268416,
+    "block_time": 13.57
+}, {
+    "timestamp": 1764732600,
+    "difficulty": 3760374904792401,
+    "hashrate": 277928669977265,
+    "block_time": 13.53
+}, {
+    "timestamp": 1764732000,
+    "difficulty": 3732971550452514,
+    "hashrate": 273879057259906,
+    "block_time": 13.63
+}, {
+    "timestamp": 1764731400,
+    "difficulty": 3749445859766915,
+    "hashrate": 275289710702417,
+    "block_time": 13.62
+}, {
+    "timestamp": 1764730800,
+    "difficulty": 3734887000664314,
+    "hashrate": 273618095286763,
+    "block_time": 13.65
+}, {
+    "timestamp": 1764730200,
+    "difficulty": 3725808622774901,
+    "hashrate": 271560395245984,
+    "block_time": 13.72
+}, {
+    "timestamp": 1764729600,
+    "difficulty": 3753238202218348,
+    "hashrate": 273958992862653,
+    "block_time": 13.7
+}, {
+    "timestamp": 1764729000,
+    "difficulty": 3764323886237642,
+    "hashrate": 276179301998360,
+    "block_time": 13.63
+}, {
+    "timestamp": 1764728400,
+    "difficulty": 3766196968225356,
+    "hashrate": 277130019736965,
+    "block_time": 13.59
+}, {
+    "timestamp": 1764727800,
+    "difficulty": 3766238303163874,
+    "hashrate": 278156447796446,
+    "block_time": 13.54
+}, {
+    "timestamp": 1764727200,
+    "difficulty": 3757091807030921,
+    "hashrate": 277686016779817,
+    "block_time": 13.53
+}, {
+    "timestamp": 1764726600,
+    "difficulty": 3768164535190559,
+    "hashrate": 277478979027287,
+    "block_time": 13.58
+}, {
+    "timestamp": 1764726000,
+    "difficulty": 3766382143478962,
+    "hashrate": 277347727796684,
+    "block_time": 13.58
+}, {
+    "timestamp": 1764725400,
+    "difficulty": 3760900868002173,
+    "hashrate": 275322171888885,
+    "block_time": 13.66
+}, {
+    "timestamp": 1764724800,
+    "difficulty": 3759084213889589,
+    "hashrate": 276403251021293,
+    "block_time": 13.6
+}, {
+    "timestamp": 1764724200,
+    "difficulty": 3748120461819924,
+    "hashrate": 275192398077821,
+    "block_time": 13.62
+}, {
+    "timestamp": 1764723600,
+    "difficulty": 3757342856261095,
+    "hashrate": 278528010100897,
+    "block_time": 13.49
+}, {
+    "timestamp": 1764723000,
+    "difficulty": 3773933726431453,
+    "hashrate": 281636845256079,
+    "block_time": 13.4
+}, {
+    "timestamp": 1764722400,
+    "difficulty": 3781352494379441,
+    "hashrate": 282823671980512,
+    "block_time": 13.37
+}, {
+    "timestamp": 1764721800,
+    "difficulty": 3781399414698100,
+    "hashrate": 283463224490112,
+    "block_time": 13.34
+}, {
+    "timestamp": 1764721200,
+    "difficulty": 3788865462655712,
+    "hashrate": 284877102455317,
+    "block_time": 13.3
+}, {
+    "timestamp": 1764720600,
+    "difficulty": 3772302626007933,
+    "hashrate": 282993445311923,
+    "block_time": 13.33
+}, {
+    "timestamp": 1764720000,
+    "difficulty": 3761292251104443,
+    "hashrate": 280903080739690,
+    "block_time": 13.39
+}, {
+    "timestamp": 1764719400,
+    "difficulty": 3748514150198367,
+    "hashrate": 278079684732817,
+    "block_time": 13.48
+}, {
+    "timestamp": 1764718800,
+    "difficulty": 3741238352161180,
+    "hashrate": 278365948821516,
+    "block_time": 13.44
+}, {
+    "timestamp": 1764718200,
+    "difficulty": 3737622251156054,
+    "hashrate": 276860907493041,
+    "block_time": 13.5
+}, {
+    "timestamp": 1764717600,
+    "difficulty": 3735852571289243,
+    "hashrate": 274897172280298,
+    "block_time": 13.59
+}, {
+    "timestamp": 1764717000,
+    "difficulty": 3723140421900571,
+    "hashrate": 272358480021988,
+    "block_time": 13.67
+}, {
+    "timestamp": 1764716400,
+    "difficulty": 3734097921339699,
+    "hashrate": 274162842976483,
+    "block_time": 13.62
+}, {
+    "timestamp": 1764715800,
+    "difficulty": 3699661954320435,
+    "hashrate": 270245577379141,
+    "block_time": 13.69
+}, {
+    "timestamp": 1764715200,
+    "difficulty": 3676287659905942,
+    "hashrate": 268734478063300,
+    "block_time": 13.68
+}, {
+    "timestamp": 1764714600,
+    "difficulty": 3687139865295706,
+    "hashrate": 270318171942500,
+    "block_time": 13.64
+}, {
+    "timestamp": 1764714000,
+    "difficulty": 3696211361045263,
+    "hashrate": 271381157198624,
+    "block_time": 13.62
+}, {
+    "timestamp": 1764713400,
+    "difficulty": 3694453300382853,
+    "hashrate": 271850868313676,
+    "block_time": 13.59
+}, {
+    "timestamp": 1764712800,
+    "difficulty": 3667533841599791,
+    "hashrate": 269473463747229,
+    "block_time": 13.61
+}, {
+    "timestamp": 1764712200,
+    "difficulty": 3653275570246329,
+    "hashrate": 266467948230950,
+    "block_time": 13.71
+}, {
+    "timestamp": 1764711600,
+    "difficulty": 3656885105787994,
+    "hashrate": 264991674332463,
+    "block_time": 13.8
+}, {
+    "timestamp": 1764711000,
+    "difficulty": 3626707286759654,
+    "hashrate": 259792785584502,
+    "block_time": 13.96
+}, {
+    "timestamp": 1764710400,
+    "difficulty": 3635610113330845,
+    "hashrate": 259501078753094,
+    "block_time": 14.01
+}, {
+    "timestamp": 1764709800,
+    "difficulty": 3633864384313337,
+    "hashrate": 259376472827504,
+    "block_time": 14.01
+}, {
+    "timestamp": 1764709200,
+    "difficulty": 3644564352526814,
+    "hashrate": 260885064604640,
+    "block_time": 13.97
+}, {
+    "timestamp": 1764708600,
+    "difficulty": 3664257495942949,
+    "hashrate": 263047917870994,
+    "block_time": 13.93
+}, {
+    "timestamp": 1764708000,
+    "difficulty": 3682223882136964,
+    "hashrate": 264337679981117,
+    "block_time": 13.93
+}, {
+    "timestamp": 1764707400,
+    "difficulty": 3703912268145421,
+    "hashrate": 266660350478432,
+    "block_time": 13.89
+}, {
+    "timestamp": 1764706800,
+    "difficulty": 3705744683485393,
+    "hashrate": 265454490221017,
+    "block_time": 13.96
+}, {
+    "timestamp": 1764706200,
+    "difficulty": 3736671174045447,
+    "hashrate": 269406717667300,
+    "block_time": 13.87
+}, {
+    "timestamp": 1764705600,
+    "difficulty": 3729405013413808,
+    "hashrate": 268689122003877,
+    "block_time": 13.88
+}, {
+    "timestamp": 1764705000,
+    "difficulty": 3733079959080124,
+    "hashrate": 268566903530944,
+    "block_time": 13.9
+}, {
+    "timestamp": 1764704400,
+    "difficulty": 3751381095475063,
+    "hashrate": 270857840828524,
+    "block_time": 13.85
+}, {
+    "timestamp": 1764703800,
+    "difficulty": 3734972236348506,
+    "hashrate": 269673085656932,
+    "block_time": 13.85
+}, {
+    "timestamp": 1764703200,
+    "difficulty": 3742313523632080,
+    "hashrate": 270985772891534,
+    "block_time": 13.81
+}, {
+    "timestamp": 1764702600,
+    "difficulty": 3758826363546198,
+    "hashrate": 274567301939094,
+    "block_time": 13.69
+}, {
+    "timestamp": 1764702000,
+    "difficulty": 3766209135722824,
+    "hashrate": 274705261540687,
+    "block_time": 13.71
+}, {
+    "timestamp": 1764701400,
+    "difficulty": 3738761479615431,
+    "hashrate": 271317959333486,
+    "block_time": 13.78
+}, {
+    "timestamp": 1764700800,
+    "difficulty": 3722411386224280,
+    "hashrate": 269154836314120,
+    "block_time": 13.83
+}, {
+    "timestamp": 1764700200,
+    "difficulty": 3717002084835398,
+    "hashrate": 268375601793170,
+    "block_time": 13.85
+}, {
+    "timestamp": 1764699600,
+    "difficulty": 3749880405121578,
+    "hashrate": 272917060052517,
+    "block_time": 13.74
+}, {
+    "timestamp": 1764699000,
+    "difficulty": 3729827685639410,
+    "hashrate": 269886229062186,
+    "block_time": 13.82
+}, {
+    "timestamp": 1764698400,
+    "difficulty": 3764630667905860,
+    "hashrate": 274190143328905,
+    "block_time": 13.73
+}, {
+    "timestamp": 1764697800,
+    "difficulty": 3761008115894861,
+    "hashrate": 272734453654450,
+    "block_time": 13.79
+}, {
+    "timestamp": 1764697200,
+    "difficulty": 3744546426255727,
+    "hashrate": 270559712879749,
+    "block_time": 13.84
+}, {
+    "timestamp": 1764696600,
+    "difficulty": 3724515119656877,
+    "hashrate": 269112364137058,
+    "block_time": 13.84
+}, {
+    "timestamp": 1764696000,
+    "difficulty": 3722756937177598,
+    "hashrate": 267439435142069,
+    "block_time": 13.92
+}, {
+    "timestamp": 1764695400,
+    "difficulty": 3686607833416244,
+    "hashrate": 263141172977605,
+    "block_time": 14.01
+}, {
+    "timestamp": 1764694800,
+    "difficulty": 3665110869929359,
+    "hashrate": 261793633566383,
+    "block_time": 14
+}, {
+    "timestamp": 1764694200,
+    "difficulty": 3656199479832606,
+    "hashrate": 260784556336135,
+    "block_time": 14.02
+}, {
+    "timestamp": 1764693600,
+    "difficulty": 3666993275699892,
+    "hashrate": 263055471714483,
+    "block_time": 13.94
+}, {
+    "timestamp": 1764693000,
+    "difficulty": 3701247098823339,
+    "hashrate": 267238057676775,
+    "block_time": 13.85
+}, {
+    "timestamp": 1764692400,
+    "difficulty": 3699475149018493,
+    "hashrate": 266724956670403,
+    "block_time": 13.87
+}, {
+    "timestamp": 1764691800,
+    "difficulty": 3668916897044103,
+    "hashrate": 263950855902453,
+    "block_time": 13.9
+}, {
+    "timestamp": 1764691200,
+    "difficulty": 3686997069346081,
+    "hashrate": 266209174682028,
+    "block_time": 13.85
+}, {
+    "timestamp": 1764690600,
+    "difficulty": 3726894399589722,
+    "hashrate": 271244133885715,
+    "block_time": 13.74
+}, {
+    "timestamp": 1764690000,
+    "difficulty": 3710582026945901,
+    "hashrate": 269468556786195,
+    "block_time": 13.77
+}, {
+    "timestamp": 1764689400,
+    "difficulty": 3754421668078892,
+    "hashrate": 272850411924338,
+    "block_time": 13.76
+}, {
+    "timestamp": 1764688800,
+    "difficulty": 3728873541704146,
+    "hashrate": 270796916608870,
+    "block_time": 13.77
+}, {
+    "timestamp": 1764688200,
+    "difficulty": 3712570235344418,
+    "hashrate": 268832022834498,
+    "block_time": 13.81
+}, {
+    "timestamp": 1764687600,
+    "difficulty": 3683708662913451,
+    "hashrate": 266742118965492,
+    "block_time": 13.81
+}, {
+    "timestamp": 1764687000,
+    "difficulty": 3685551318100911,
+    "hashrate": 267650785628243,
+    "block_time": 13.77
+}, {
+    "timestamp": 1764686400,
+    "difficulty": 3678383686675464,
+    "hashrate": 265587269796062,
+    "block_time": 13.85
+}, {
+    "timestamp": 1764685800,
+    "difficulty": 3640885077639676,
+    "hashrate": 261182573718772,
+    "block_time": 13.94
+}, {
+    "timestamp": 1764685200,
+    "difficulty": 3658766565991511,
+    "hashrate": 261153930477624,
+    "block_time": 14.01
+}, {
+    "timestamp": 1764684600,
+    "difficulty": 3680306221436876,
+    "hashrate": 264960851075369,
+    "block_time": 13.89
+}, {
+    "timestamp": 1764684000,
+    "difficulty": 3709197768906148,
+    "hashrate": 268782447022185,
+    "block_time": 13.8
+}, {
+    "timestamp": 1764683400,
+    "difficulty": 3725595648311330,
+    "hashrate": 270362528905031,
+    "block_time": 13.78
+}, {
+    "timestamp": 1764682800,
+    "difficulty": 3745722159305271,
+    "hashrate": 273410376591626,
+    "block_time": 13.7
+}, {
+    "timestamp": 1764682200,
+    "difficulty": 3775140758117424,
+    "hashrate": 276769850301864,
+    "block_time": 13.64
+}, {
+    "timestamp": 1764681600,
+    "difficulty": 3754953853449443,
+    "hashrate": 275491845447501,
+    "block_time": 13.63
+}, {
+    "timestamp": 1764681000,
+    "difficulty": 3756830364976229,
+    "hashrate": 275225667763826,
+    "block_time": 13.65
+}, {
+    "timestamp": 1764680400,
+    "difficulty": 3769750212074874,
+    "hashrate": 278415820684998,
+    "block_time": 13.54
+}, {
+    "timestamp": 1764679800,
+    "difficulty": 3767939173987205,
+    "hashrate": 275434150145264,
+    "block_time": 13.68
+}, {
+    "timestamp": 1764679200,
+    "difficulty": 3784570508083076,
+    "hashrate": 277868612928273,
+    "block_time": 13.62
+}, {
+    "timestamp": 1764678600,
+    "difficulty": 3812449992189860,
+    "hashrate": 281777530834432,
+    "block_time": 13.53
+}, {
+    "timestamp": 1764678000,
+    "difficulty": 3793912457541553,
+    "hashrate": 280614826741239,
+    "block_time": 13.52
+}, {
+    "timestamp": 1764677400,
+    "difficulty": 3814371579770623,
+    "hashrate": 282965250724824,
+    "block_time": 13.48
+}, {
+    "timestamp": 1764676800,
+    "difficulty": 3805093646753261,
+    "hashrate": 280818719317584,
+    "block_time": 13.55
+}, {
+    "timestamp": 1764676200,
+    "difficulty": 3803290178682824,
+    "hashrate": 280271936527843,
+    "block_time": 13.57
+}, {
+    "timestamp": 1764675600,
+    "difficulty": 3788501413251407,
+    "hashrate": 277953148441042,
+    "block_time": 13.63
+}, {
+    "timestamp": 1764675000,
+    "difficulty": 3770072235696147,
+    "hashrate": 275993575087566,
+    "block_time": 13.66
+}, {
+    "timestamp": 1764674400,
+    "difficulty": 3777474386286907,
+    "hashrate": 276738050277429,
+    "block_time": 13.65
+}, {
+    "timestamp": 1764673800,
+    "difficulty": 3777524867180741,
+    "hashrate": 275530624885539,
+    "block_time": 13.71
+}, {
+    "timestamp": 1764673200,
+    "difficulty": 3770191868024182,
+    "hashrate": 275598820762002,
+    "block_time": 13.68
+}, {
+    "timestamp": 1764672600,
+    "difficulty": 3781303189059178,
+    "hashrate": 276613254503232,
+    "block_time": 13.67
+}, {
+    "timestamp": 1764672000,
+    "difficulty": 3772121890812668,
+    "hashrate": 275739904299172,
+    "block_time": 13.68
+}, {
+    "timestamp": 1764671400,
+    "difficulty": 3783228947965914,
+    "hashrate": 276349813584070,
+    "block_time": 13.69
+}, {
+    "timestamp": 1764670800,
+    "difficulty": 3783279515468740,
+    "hashrate": 275950365825583,
+    "block_time": 13.71
+}, {
+    "timestamp": 1764670200,
+    "difficulty": 3781488187851976,
+    "hashrate": 276424575135378,
+    "block_time": 13.68
+}, {
+    "timestamp": 1764669600,
+    "difficulty": 3794482870074018,
+    "hashrate": 278596392810134,
+    "block_time": 13.62
+}, {
+    "timestamp": 1764669000,
+    "difficulty": 3772340668386047,
+    "hashrate": 275353333458836,
+    "block_time": 13.7
+}, {
+    "timestamp": 1764668400,
+    "difficulty": 3796392696036174,
+    "hashrate": 278124007035617,
+    "block_time": 13.65
+}, {
+    "timestamp": 1764667800,
+    "difficulty": 3794583357615505,
+    "hashrate": 277381824387098,
+    "block_time": 13.68
+}, {
+    "timestamp": 1764667200,
+    "difficulty": 3790909359394141,
+    "hashrate": 276910837063122,
+    "block_time": 13.69
+}, {
+    "timestamp": 1764666600,
+    "difficulty": 3787237116948220,
+    "hashrate": 278064399188562,
+    "block_time": 13.62
+}, {
+    "timestamp": 1764666000,
+    "difficulty": 3759627241769135,
+    "hashrate": 275632495730875,
+    "block_time": 13.64
+}, {
+    "timestamp": 1764665400,
+    "difficulty": 3767030485439534,
+    "hashrate": 275367725543826,
+    "block_time": 13.68
+}, {
+    "timestamp": 1764664800,
+    "difficulty": 3767070934016825,
+    "hashrate": 274367875747766,
+    "block_time": 13.73
+}, {
+    "timestamp": 1764664200,
+    "difficulty": 3748746897122096,
+    "hashrate": 272438001244338,
+    "block_time": 13.76
+}, {
+    "timestamp": 1764663600,
+    "difficulty": 3754294684411766,
+    "hashrate": 273238332198818,
+    "block_time": 13.74
+}, {
+    "timestamp": 1764663000,
+    "difficulty": 3752495549937228,
+    "hashrate": 273306303709922,
+    "block_time": 13.73
+}, {
+    "timestamp": 1764662400,
+    "difficulty": 3758047074450392,
+    "hashrate": 273312514505483,
+    "block_time": 13.75
+}, {
+    "timestamp": 1764661800,
+    "difficulty": 3789449087400971,
+    "hashrate": 277412085461272,
+    "block_time": 13.66
+}, {
+    "timestamp": 1764661200,
+    "difficulty": 3767350638873873,
+    "hashrate": 274788522164396,
+    "block_time": 13.71
+}, {
+    "timestamp": 1764660600,
+    "difficulty": 3767400994169404,
+    "hashrate": 274992773297037,
+    "block_time": 13.7
+}, {
+    "timestamp": 1764660000,
+    "difficulty": 3754590476780957,
+    "hashrate": 273658198016105,
+    "block_time": 13.72
+}, {
+    "timestamp": 1764659400,
+    "difficulty": 3747285893902884,
+    "hashrate": 272728230997299,
+    "block_time": 13.74
+}, {
+    "timestamp": 1764658800,
+    "difficulty": 3760172019918691,
+    "hashrate": 274465110942970,
+    "block_time": 13.7
+}, {
+    "timestamp": 1764658200,
+    "difficulty": 3756530436864315,
+    "hashrate": 275002228174547,
+    "block_time": 13.66
+}, {
+    "timestamp": 1764657600,
+    "difficulty": 3813887789472642,
+    "hashrate": 281467733540416,
+    "block_time": 13.55
+}, {
+    "timestamp": 1764657000,
+    "difficulty": 3808367434243930,
+    "hashrate": 281475789670653,
+    "block_time": 13.53
+}, {
+    "timestamp": 1764656400,
+    "difficulty": 3776915123790890,
+    "hashrate": 278328306837943,
+    "block_time": 13.57
+}, {
+    "timestamp": 1764655800,
+    "difficulty": 3780645018460108,
+    "hashrate": 276970331022719,
+    "block_time": 13.65
+}, {
+    "timestamp": 1764655200,
+    "difficulty": 3788080601726624,
+    "hashrate": 278945552409913,
+    "block_time": 13.58
+}, {
+    "timestamp": 1764654600,
+    "difficulty": 3773347378877749,
+    "hashrate": 276031263999835,
+    "block_time": 13.67
+}, {
+    "timestamp": 1764654000,
+    "difficulty": 3767844278009827,
+    "hashrate": 275025129781739,
+    "block_time": 13.7
+}, {
+    "timestamp": 1764653400,
+    "difficulty": 3766033250643191,
+    "hashrate": 275093736350854,
+    "block_time": 13.69
+}, {
+    "timestamp": 1764652800,
+    "difficulty": 3790064065425415,
+    "hashrate": 279091610119692,
+    "block_time": 13.58
+}, {
+    "timestamp": 1764652200,
+    "difficulty": 3803077292636187,
+    "hashrate": 280877200342407,
+    "block_time": 13.54
+}, {
+    "timestamp": 1764651600,
+    "difficulty": 3799400525887490,
+    "hashrate": 281437075991666,
+    "block_time": 13.5
+}, {
+    "timestamp": 1764651000,
+    "difficulty": 3797575238968326,
+    "hashrate": 281719231377472,
+    "block_time": 13.48
+}, {
+    "timestamp": 1764650400,
+    "difficulty": 3788351726580058,
+    "hashrate": 279171092599857,
+    "block_time": 13.57
+}, {
+    "timestamp": 1764649800,
+    "difficulty": 3810684315839957,
+    "hashrate": 280816825043475,
+    "block_time": 13.57
+}, {
+    "timestamp": 1764649200,
+    "difficulty": 3820035109358294,
+    "hashrate": 281713503639992,
+    "block_time": 13.56
+}, {
+    "timestamp": 1764648600,
+    "difficulty": 3848162054045322,
+    "hashrate": 284417003255382,
+    "block_time": 13.53
+}, {
+    "timestamp": 1764648000,
+    "difficulty": 3833192402820494,
+    "hashrate": 283310598878085,
+    "block_time": 13.53
+}, {
+    "timestamp": 1764647400,
+    "difficulty": 3818280074361372,
+    "hashrate": 281791887406743,
+    "block_time": 13.55
+}, {
+    "timestamp": 1764646800,
+    "difficulty": 3829539541119912,
+    "hashrate": 283459625545515,
+    "block_time": 13.51
+}, {
+    "timestamp": 1764646200,
+    "difficulty": 3859627498936683,
+    "hashrate": 287388495825516,
+    "block_time": 13.43
+}, {
+    "timestamp": 1764645600,
+    "difficulty": 3844611414773587,
+    "hashrate": 285632348794472,
+    "block_time": 13.46
+}, {
+    "timestamp": 1764645000,
+    "difficulty": 3854053746798509,
+    "hashrate": 286333859346100,
+    "block_time": 13.46
+}, {
+    "timestamp": 1764644400,
+    "difficulty": 3837189389259819,
+    "hashrate": 285080935309050,
+    "block_time": 13.46
+}, {
+    "timestamp": 1764643800,
+    "difficulty": 3850374576470401,
+    "hashrate": 286486203606429,
+    "block_time": 13.44
+}, {
+    "timestamp": 1764643200,
+    "difficulty": 3876833797789795,
+    "hashrate": 289100208634586,
+    "block_time": 13.41
+}, {
+    "timestamp": 1764642600,
+    "difficulty": 3850469235956591,
+    "hashrate": 284587526678240,
+    "block_time": 13.53
+}, {
+    "timestamp": 1764642000,
+    "difficulty": 3844882118121852,
+    "hashrate": 281676345649953,
+    "block_time": 13.65
+}, {
+    "timestamp": 1764641400,
+    "difficulty": 3859965555715097,
+    "hashrate": 283196299025319,
+    "block_time": 13.63
+}, {
+    "timestamp": 1764640800,
+    "difficulty": 3854360980902477,
+    "hashrate": 281957643079918,
+    "block_time": 13.67
+}, {
+    "timestamp": 1764640200,
+    "difficulty": 3875153484672271,
+    "hashrate": 284102161632864,
+    "block_time": 13.64
+}, {
+    "timestamp": 1764639600,
+    "difficulty": 3858188505969766,
+    "hashrate": 283481888756045,
+    "block_time": 13.61
+}, {
+    "timestamp": 1764639000,
+    "difficulty": 3839425827664063,
+    "hashrate": 280250060413435,
+    "block_time": 13.7
+}, {
+    "timestamp": 1764638400,
+    "difficulty": 3822624556979507,
+    "hashrate": 277001779491269,
+    "block_time": 13.8
+}, {
+    "timestamp": 1764637800,
+    "difficulty": 3833882163180498,
+    "hashrate": 279437475450474,
+    "block_time": 13.72
+}, {
+    "timestamp": 1764637200,
+    "difficulty": 3850824821215908,
+    "hashrate": 282940839178245,
+    "block_time": 13.61
+}, {
+    "timestamp": 1764636600,
+    "difficulty": 3850847779377751,
+    "hashrate": 282527349917663,
+    "block_time": 13.63
+}, {
+    "timestamp": 1764636000,
+    "difficulty": 3839616398473772,
+    "hashrate": 280059547664024,
+    "block_time": 13.71
+}, {
+    "timestamp": 1764635400,
+    "difficulty": 3822820685466303,
+    "hashrate": 278428309210947,
+    "block_time": 13.73
+}, {
+    "timestamp": 1764634800,
+    "difficulty": 3845342710559490,
+    "hashrate": 279661288040690,
+    "block_time": 13.75
+}, {
+    "timestamp": 1764634200,
+    "difficulty": 3821050751966685,
+    "hashrate": 275888140936223,
+    "block_time": 13.85
+}, {
+    "timestamp": 1764633600,
+    "difficulty": 3830433396304435,
+    "hashrate": 277970493200612,
+    "block_time": 13.78
+}, {
+    "timestamp": 1764633000,
+    "difficulty": 3830475433569496,
+    "hashrate": 277369691062237,
+    "block_time": 13.81
+}, {
+    "timestamp": 1764632400,
+    "difficulty": 3832382357989160,
+    "hashrate": 277507773931148,
+    "block_time": 13.81
+}, {
+    "timestamp": 1764631800,
+    "difficulty": 3824953819775494,
+    "hashrate": 274386931117324,
+    "block_time": 13.94
+}, {
+    "timestamp": 1764631200,
+    "difficulty": 3828728404055843,
+    "hashrate": 274657704738583,
+    "block_time": 13.94
+  }
+]
